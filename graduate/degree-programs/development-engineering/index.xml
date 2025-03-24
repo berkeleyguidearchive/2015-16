@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<abouttheprogramtext>
+<![CDATA[
+<p>The Designated Emphasis in Development Engineering is an interdisciplinary training program for UC Berkeley doctoral students whose dissertation research includes topics related to the application of technology to address the needs of people living in poverty. Through coursework, research mentoring, and professional development, the program prepares students to develop, pilot, and evaluate technological interventions designed to improve human and economic development within complex, low-resource settings. The DE serves students across engineering disciplines, quantitative social science disciplines (including public health), business programs, information sciences, and natural sciences.</p>
+<p>The program builds upon ongoing research in technological innovations, human-centered design, development economics, remote sensing and monitoring, data science, and impact analysis at UC Berkeley. The program is overseen by the Graduate Group in Development Engineering, administered by the Department of Civil and Environmental Engineering, and affiliated with: </p>
+<ul>
+	<li><a href="http://blumcenter.berkeley.edu/">Blum Center for Developing Economies</a>
+</li>
+
+	<li><a href="http://cega.berkeley.edu/">Center for Effective Global Action (CEGA)</a>
+</li>
+
+	<li><a href="http://tier.cs.berkeley.edu/drupal/">Technology and Infrastructure for Emerging Regions (TIER)</a>
+</li>
+
+	<li><a href="http://dil.berkeley.edu/">Development Impact Lab (DIL)</a>
+</li>
+
+</ul>
+
+<p>This constellation of affiliates—through DIL—is a cornerstone partner in USAID’s <a href="http://www.usaid.gov/GlobalDevLab">Global Development Lab</a>
+. As such, development engineering students are connected to an ecosystem of researchers and practitioners at Berkeley and also have access to a dynamic global network. To review the development engineering research projects sponsored by DIL, we encourage you to explore the <a href="http://dil.berkeley.edu/technology-portfolio/">DIL Technology Portfolio</a>
+.  </p>
+
+]]>
+</abouttheprogramtext>
+<admissionstext>
+<![CDATA[
+<p>To be admitted to the Designated Emphasis in Development Engineering, an applicant must already be accepted into a PhD program at the University of California, Berkeley. Before applying for the DE, interested PhD students should arrange a consultation meeting with the development engineering graduate student affairs officer in the Department of Civil and Environmental Engineering as well as one of the development engineering faculty advisers. Students must apply at least one semester before their PhD qualifying examination. Admission to the Designated Emphasis in Development Engineering is determined by the development engineering faculty advisers on a rolling basis throughout the academic year.</p>
+<p>After the initial consultation meeting, a student must submit an application in hard copy to the development engineering graduate student affairs officer (GSAO) in the Department of Civil and Environmental Engineering in 750 Davis Hall, and then submit the application by email to the GSAO, development engineering faculty adviser (who advised the student prior to student’s application), and to the development engineering chair. The application must contain:</p>
+<ol>
+	<li>Petition for Admission to the Designated Emphasis in Development Engineering.</li>
+	<li>Letter of intent summarizing research interests and educational or employment background in issues related to development economics or development engineering.</li>
+	<li>A list of courses, if any, taken from the required and designated course list and a timeline when the rest will be taken.</li>
+	<li>Letter of recommendation from a member of the development engineering faculty graduate group or the student’s graduate adviser.</li>
+	<li>Graduate Petition for Change of Major or Degree Goal (to indicate your interest in adding the designated emphasis).</li>
+</ol>
+<p>For further information regarding admission to graduate programs at UC Berkeley, please see the <a href="http://grad.berkeley.edu/admissions/">Graduate Division's Admissions website</a>
+.</p>
+
+]]>
+</admissionstext>
+<designatedemphasisrequirementstext>
+<![CDATA[
+<h3>Coursework/Curriculum</h3>
+<p>The Designated Emphasis in Development Engineering requires a total of five courses, comprised of two core courses and three electives. Electives must be selected from the areas listed below: 1) Problem Identification and Project Design, 2) Evaluation Techniques and Methods for Measuring Social Impact, and 3) Development Technologies. The three electives must span at least two areas.  Only one course can be from the student's home department. All course work should be taken for a letter grade.  See <a href="http://deveng.berkeley.edu/">program website</a>
+ for more information.</p>
+
+<table class="sc_courselist" width="100%"><colgroup><col class="codecol" /><col class="titlecol" /><col align="char" char="." class="hourscol" /></colgroup><tbody><tr class="even areaheader firstrow"><td colspan="2"><span class="courselistcomment areaheader">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">DEV&#160;ENG&#160;C200</td><td>Design, Evaluate, and Scale Development Technologies</td><td class="hourscol">3</td></tr>
+<tr class="even lastrow"><td class="codecol">DEV&#160;ENG&#160;210</td><td>Development Engineering Research and Practice Seminar</td><td class="hourscol">2</td></tr>
+</tbody></table>
+
+<h4>Development Engineering Electives:  Three electives from at least two of the thematic modules.<br/>
+ </h4>
+<table class="sc_courselist" width="100%"><colgroup><col class="codecol" /><col class="titlecol" /><col align="char" char="." class="hourscol" /></colgroup><tbody><tr class="even areaheader firstrow"><td colspan="2"><span class="courselistcomment areaheader">Problem Identification and Project Design</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">CIV&#160;ENG&#160;209</td><td>Design for Sustainable Communities</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">DEVP&#160;225</td><td>Innovation, Product Development, and Marketing</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">DEVP&#160;C232</td><td>Foundations of Public Health</td><td class="hourscol">2</td></tr>
+<tr class="even"><td class="codecol">ECON&#160;219B</td><td>Applications of Psychology and Economics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">INFO&#160;213</td><td>User Interface Design and Development</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">INFO&#160;214</td><td>Needs and Usability Assessment</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">INFO&#160;C283</td><td>Course Not Available</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">INFO&#160;287</td><td>Information and Communications Technologies for Social Enterprise</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MBA&#160;215</td><td>Business Strategies for Emerging Markets: Management, Investment, and Opportunities</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MEC&#160;ENG&#160;290H</td><td>Green Product Development: Design for Sustainability</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MEC&#160;ENG&#160;290P</td><td>New Product Development: Design Theory and Methods</td><td class="hourscol">3</td></tr>
+<tr class="even lastrow"><td class="codecol">PB&#160;HLTH&#160;290</td><td>Health Issues Seminars (Designing Innovative Pubic Health Solutions)</td><td class="hourscol">3</td></tr>
+</tbody></table>
+
+<table class="sc_courselist" width="100%"><colgroup><col class="codecol" /><col class="titlecol" /><col align="char" char="." class="hourscol" /></colgroup><tbody><tr class="even areaheader firstrow"><td colspan="2"><span class="courselistcomment areaheader">Evaluation Techniques and Methods for Measuring Social Impact</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">DEVP&#160;228</td><td>Strategic Planning and Project Management</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ECON&#160;219B</td><td>Applications of Psychology and Economics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ECON&#160;240A</td><td>Econometrics</td><td class="hourscol">5</td></tr>
+<tr class="even"><td class="codecol">ECON&#160;240B</td><td>Econometrics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ECON&#160;C270A</td><td>Microeconomics of Development</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ECON&#160;270B</td><td>Development Economics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ECON&#160;274</td><td>Global Poverty and Impact Evaluation</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ENE,RES&#160;275</td><td>Water and Development</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">INFO&#160;272</td><td>Qualitative Research Methods for Information Systems and Management</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MBA&#160;292S</td><td>Social Sector Solutions: Social Enterprise</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MBA&#160;296</td><td>Special Topics in Business Administration (Applied Impact Evaluation: How to Learn What Works to Lower Global Poverty)</td><td class="hourscol">.5-3</td></tr>
+<tr class="even"><td class="codecol">PB&#160;HLTH&#160;252C</td><td>Intervention Trial Design</td><td class="hourscol">3</td></tr>
+<tr class="odd lastrow"><td class="codecol">PUB&#160;POL&#160;C253</td><td>International Economic Development Policy</td><td class="hourscol">3</td></tr>
+</tbody></table>
+
+<table class="sc_courselist" width="100%"><colgroup><col class="codecol" /><col class="titlecol" /><col align="char" char="." class="hourscol" /></colgroup><tbody><tr class="even areaheader firstrow"><td colspan="2"><span class="courselistcomment areaheader">Development Technologies (Appropriate Technologies, Sensors, Data Collection, Data Mining and Analysis)</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">BIO&#160;ENG&#160;168L</td><td>Practical Light Microscopy</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">CIV&#160;ENG&#160;210A</td><td>Course Not Available</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">CIV&#160;ENG&#160;271</td><td>Sensors and Signal Interpretation</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">CIV&#160;ENG&#160;290</td><td>Advanced Special Topics in Civil and Environmental Engineering (Control Market and Privacy Tools for Participatory Sensing)</td><td class="hourscol">1-3</td></tr>
+<tr class="odd"><td class="codecol">INFO&#160;271B</td><td>Quantitative Research Methods for Information Systems and Management</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">COMPSCI&#160;289A</td><td>Introduction to Machine Learning</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">COMPSCI&#160;294</td><td>Special Topics (Behavioral Data Mining)</td><td class="hourscol">1-4</td></tr>
+<tr class="even"><td class="codecol">ECON 291/ENGIN&#160;298B</td><td>Departmental Seminar (Behavior Management and Change)</td><td class="hourscol">1</td></tr>
+<tr class="odd lastrow"><td class="codecol">ENE,RES&#160;C200</td><td>Energy and Society</td><td class="hourscol">4</td></tr>
+</tbody></table>
+
+<h3>Qualifying Examination</h3>
+<p>All students must apply and be accepted to the Designated Emphasis in Development Engineering <em>at least one semester before their qualifying examination.</em>  At least one faculty member of development engineering must participate in the qualifying examination committee and will evaluate the exam from relevant perspectives. Satisfactory performance on the qualifying examination for the PhD will be judged according to the established rules in the student’s home department. </p>
+<p>If  none of the faculty advisers/committee members on your qualifying exam or dissertation are in the Graduate Group in Development Engineering, consider encouraging one of them to apply for membership in the Graduate Group in Development Engineering. The faculty should contact the faculty chair (see Contact Information tab on right sidebar). </p>
+<h3>Dissertation</h3>
+<p>The dissertation must contain themes relevant to the field of Development Engineering (e.g., technology for economic and social development). The student’s dissertation committee must include at least one faculty in development engineering who can evaluate the dissertation from relevant perspectives.</p>
+]]>
+</designatedemphasisrequirementstext>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+

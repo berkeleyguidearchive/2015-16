@@ -1,0 +1,1988 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+<h2>Overview</h2>
+<p>The Department of Industrial Engineering and Operations Research (IEOR) educates students to become highly skilled in the quantitative modeling and analysis of a broad array of systems-level decision problems concerned with economic efficiency, productivity, and quality; the collection and analysis of data using database and decision-support tools; the comprehensive modeling of uncertainty; the development and creative use of analytical and computational methods for solving these problems; and to obtain the broader skills, background, and knowledge necessary to be an effective professional in a rapidly-changing global economy. The department's mission includes creating knowledge that advances the state of the art in optimization, stochastic modeling and simulation, and the application of these tools to important societal systems.</p>
+<p>IEOR students and faculty members are actively engaged in a variety of research projects that have made and continue to make important contributions to both the theory and practice of operations research and industrial engineering. Some of the research areas represented in the IEOR department are analysis of algorithms, automation and robotics, combinatorics and integer programming, convex optimization, financial engineering, inventory theory, risk analysis, robust optimization, queueing theory, supply chain management, scheduling, and simulation.</p>
+<h3>Undergraduate Programs</h3>
+<p><a href="/archive/2015-16/undergraduate/degree-programs/industrial-engineering-operations-research/">Industrial Engineering and Operations Research</a>
+: BS (offered through the College of Engineering), Minor<br/>
+<a href="/archive/2015-16/undergraduate/degree-programs/operations-research-management-science/">Operations Research and Management Science</a>
+: BA (offered through the College of Letters and Science)</p>
+
+<h3>Graduate Programs</h3>
+<p><a href="/archive/2015-16/graduate/degree-programs/industrial-engineering/">Industrial Engineering and Operations Research</a>
+: MEng, MS, and PhD</p>
+
+  
+]]>
+</text>
+<coursestext>
+<![CDATA[
+<h3>Industrial Engineering and Operations Research</h3>
+<div id="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 24" class="btn-course" role="button" aria-controls="118">
+<span class="code">IND&#160;ENG&#160;24</span> 
+<span class="title">Freshman Seminars</span> 
+<span class="hours">1 Unit</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+The Berkeley Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small-seminar setting. Berkeley Seminars are offered in all campus departments, and topics vary from department to department and semester to semester.
+</span><br />
+</p>
+<div id="118" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p><strong>Course Objectives:</strong> Provide an introduction to the field of Industrial Engineering and Operations Research through a series of lectures.
+</p><p><strong>Student Learning Outcomes:</strong> Learn more about Industrial Engineering and Operations Research.
+</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit as topic varies. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of seminar per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> The grading option will be decided by the instructor when the class is offered. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 66" class="btn-course" role="button" aria-controls="995">
+<span class="code">IND&#160;ENG&#160;66</span> 
+<span class="title">A Bivariate Introduction to IE and OR</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Fall 2016<br/>
+This Freshman-level Introductory course will provide an intuitive overview of the fundamental problems addressed and methods in the fields of Industrial Engineering and Operations Research including Constrained Optimization, Human Factors, Data Analytics, Queues and Chains, and Linear Programming. The course will focus on two-dimensional, i.e., bivariate, examples where the problems and methods are</span><span class="deschide"> amenable to visualization and geometric intuition. The course will discuss applications such as dieting, scheduling, and transportation. This course will not require pre-requisites and will present the core concepts in a self-contained manner that is accessible to Freshmen to provide the foundation for future coursework.
+</span><br />
+</p>
+<div id="995" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p><strong>Course Objectives:</strong> • Provide a broad survey of the important topics in IE and OR, and develop intuition about problems, algorithms, and abstractions using bivariate examples (2D).<br/>
+• Describe different mathematical abstractions used in IEOR (e.g., graphs, queues, Markov chains), and how to use these abstractions to model real-world problems.<br/>
+• Introduce students to the data analysis process including: developing a hypothesis, acquiring data, processing the data, testing the hypothesis, and presenting results.<br/>
+• Provide students with concrete examples of how the mathematical tools from the class apply to real problems such as dieting, scheduling, and transportation.
+</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Credit Restrictions:</strong> Course restricted to Freshman students.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Goldberg</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 95" class="btn-course" role="button" aria-controls="766">
+<span class="code">IND&#160;ENG&#160;95</span> 
+<span class="title">A. Richard Newton Lecture Series</span> 
+<span class="hours">1 Unit</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Spring 2017, Fall 2016<br/>
+This lecture series serves as an entry point for undergraduate and graduate curriculum sequences in entrepreneurship and innovation. The series, established in 2005, is named in honor of A. Richard Newton, a visionary technology industry leader and late dean of the University of California Berkeley College of Engineering. The course features a selection of high-level industry speakers who</span><span class="deschide"> share their insights on industry developments, leadership, and innovation based on their careers.
+</span><br />
+</p>
+<div id="766" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong>  Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1.5 hours of colloquium per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Alternative to final exam. </p><p><strong>Instructor:</strong> Sidhu</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 98" class="btn-course" role="button" aria-controls="541">
+<span class="code">IND&#160;ENG&#160;98</span> 
+<span class="title">Supervised Group Study and Research</span> 
+<span class="hours">1 - 3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017, Spring 2016, Fall 2015<br/>
+Supervised group study and research by lower division students.
+</span><br />
+</p>
+<div id="541" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor</p><p><strong>Credit Restrictions:</strong> Enrollment is restricted; see the Introduction to Courses and Curricula section of this catalog.</p><p><strong>Repeat rules:</strong>  Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-3 hours of directed group study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 99" class="btn-course" role="button" aria-controls="753">
+<span class="code">IND&#160;ENG&#160;99</span> 
+<span class="title">Supervised Independent Study and Research</span> 
+<span class="hours">1 - 4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Prior to 2007<br/>
+Supervised independent study for lower division students.
+</span><br />
+</p>
+<div id="753" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Freshman or sophomore standing and consent of instructor</p><p><strong>Credit Restrictions:</strong> Enrollment is restricted; see the Introduction to Courses and Curricula section of this catalog.</p><p><strong>Repeat rules:</strong>  Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of independent study per week</p><p><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>8 weeks - 1.5-7.5 hours of independent study per week<br /><span style="width: 15px; display: inline-block;"></span>10 weeks - 1.5-6 hours of independent study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 115" class="btn-course" role="button" aria-controls="272">
+<span class="code">IND&#160;ENG&#160;115</span> 
+<span class="title">Industrial and Commercial Data Systems</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Design and implementation of databases, with an emphasis on industrial and commercial applications. Relational algebra, SQL, normalization. Students work in teams with local companies on a database design project. WWW design and queries.
+</span><br />
+</p>
+<div id="272" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Upper division standing</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 2 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Goldberg</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 120" class="btn-course" role="button" aria-controls="170">
+<span class="code">IND&#160;ENG&#160;120</span> 
+<span class="title">Principles of Engineering Economics</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Prior to 2007<br/>
+Economic analysis for engineering decision making: Capital flows, effect of time and interest rate. Different methods of evaluation of alternatives. Minimum-cost life and replacement analysis. Depreciation and taxes. Uncertainty; preference under risk; decision analysis. Capital sources and their effects. Economic studies. Formerly Engineering 120.
+</span><br />
+</p>
+<div id="170" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Credit Restrictions:</strong> Students will receive 2 units for 120 after taking Civil Engineering 167. Students will not receive credit after taking Engineering 120.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 1 hour of discussion per week</p><p><strong>Summer:</strong> 8 weeks - 4 hours of lecture and 2 hours of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Adler</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 130" class="btn-course" role="button" aria-controls="80">
+<span class="code">IND&#160;ENG&#160;130</span> 
+<span class="title">Methods of Manufacturing Improvement</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Analytical techniques for the improvement of manufacturing performance along the dimensions of productivity, quality, customer service, and throughput. Techniques for yield analysis, process control, inspection sampling, equipment efficiency analysis, cycle time reduction, and on-time delivery improvement. Applications on semiconductor manufacturing or other industrial settings.
+</span><br />
+</p>
+<div id="80" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 172, Mathematics 54, or Statistics 134 (may be taken concurrently)</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Leachman</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 131" class="btn-course" role="button" aria-controls="901">
+<span class="code">IND&#160;ENG&#160;131</span> 
+<span class="title">Discrete Event Simulation</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+Introductory course on design, programming, and statistical analysis of a simulation study. Topics include the types of problems that can be solved by such methods. Programming material includes the theory behind random variable generation for a variety of common variables. Techniques to reduce the variance of the resultant estimator and statistical analysis are considered. Final project</span><span class="deschide"> required.
+</span><br />
+</p>
+<div id="901" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 161, 165; 172 or Statistics 134</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 1 hour of discussion per week</p><p><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>6 weeks - 5 hours of lecture and 1.5 hours of discussion per week<br /><span style="width: 15px; display: inline-block;"></span>8 weeks - 4.5 hours of lecture and 1.5 hours of discussion per week<br /><span style="width: 15px; display: inline-block;"></span>10 weeks - 3 hours of lecture and 1.5 hours of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p><p><strong>Instructor:</strong> Schruben</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 150" class="btn-course" role="button" aria-controls="65">
+<span class="code">IND&#160;ENG&#160;150</span> 
+<span class="title">Production Systems Analysis</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Quantitative models for operational and tactical decision making in production systems, including production planning, inventory control, forecasting, and scheduling.
+</span><br />
+</p>
+<div id="65" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 160, 161, 162, 165, and Engineering 120, or senior standing in manufacturing engineering</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Yano</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 151" class="btn-course" role="button" aria-controls="137">
+<span class="code">IND&#160;ENG&#160;151</span> 
+<span class="title">Service Operations Design and Analysis</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+This course is concerned with improving processes and designing facilities for service businesses such as banks, health care organizations, telephone call centers, restaurants, and transportation providers. Major topics in the course include design of service processes, layout and location of service facilities, demand forecasting, demand management, employee scheduling, service quality management</span><span class="deschide">, and capacity planning.
+</span><br />
+</p>
+<div id="137" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 161, 162, and a course in statistics</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 153" class="btn-course" role="button" aria-controls="737">
+<span class="code">IND&#160;ENG&#160;153</span> 
+<span class="title">Logistics Network Design and Supply Chain Management</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+We will focus primarily on both quantitative and qualitative issues which arise in the integrated design and management of the entire logistics network. Models and solution techniques for facility location and logistics network design will be considered. In addition, qualitative issues in distribution network structuring, centralized versus decentralized network control, variability</span><span class="deschide"> in the supply chain, strategic partnerships, and product design for logistics will be considered through discussions and cases.
+</span><br />
+</p>
+<div id="737" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 160, 162 or senior standing</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Kaminsky</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 160" class="btn-course" role="button" aria-controls="933">
+<span class="code">IND&#160;ENG&#160;160</span> 
+<span class="title">Nonlinear and Discrete Optimization</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Spring 2017, Fall 2016<br/>
+This course introduces unconstrained and constrained optimization with continuous and discrete domains. Convex sets and convex functions; local optimality; KKT conditions; Lagrangian duality; steepest descent and Newton's method. Modeling with integer variables; branch-and-bound method; cutting planes. Models on production/inventory planning, logistics, portfolio optimization, factor modeling</span><span class="deschide">, classification with support vector machines.
+</span><br />
+</p>
+<div id="933" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Mathematics 53 and 54</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Atamturk</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 162" class="btn-course" role="button" aria-controls="720">
+<span class="code">IND&#160;ENG&#160;162</span> 
+<span class="title">Linear Programming and Network Flows</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Spring 2017, Fall 2016<br/>
+This course addresses modeling and algorithms for optimization of linear constrained optimization problems. The simplex method; theorems of duality; complementary slackness. Applications in production planning and resource allocation. Graph and network problems as linear programs with integer solutions. Algorithms for selected network flow problems. Transportation and logistics problems.</span><span class="deschide"> Dynamic programming and its role in applications to shortest paths, project management and equipment replacement.
+</span><br />
+</p>
+<div id="720" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Mathematics 53 and 54</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Hochbaum</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG S162" class="btn-course" role="button" aria-controls="876">
+<span class="code">IND&#160;ENG&#160;S162</span> 
+<span class="title">Linear Programming</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Prior to 2007<br/>
+Formulation to linear programs. Optimal allocation and control problems in industry, environmental studies. Convex sets; properties of optimal solutions. The simplex method; theorems of duality; complementary slackness. Problems of post-optimization. Special structures; network problems. Digital computation.
+</span><br />
+</p>
+<div id="876" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Mathematics 50A</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 8 weeks - 4 hours of lecture and 2 hours of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 165" class="btn-course" role="button" aria-controls="617">
+<span class="code">IND&#160;ENG&#160;165</span> 
+<span class="title">Engineering Statistics, Quality Control, and Forcasting</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+This course will introduce students to basic statistical techniques such as parameter estimation, hypothesis testing, regression analysis, analysis of variance. Applications in forecasting and quality control.<br/>
+<br/>
+</span><br />
+</p>
+<div id="617" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Industrial Engineering 172 or Statistics 134 or an equivalent course in probability theory</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for Industrial Engineering 165 after taking Statistics 135.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><p><strong>Summer:</strong> 6 weeks - 7.5 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 166" class="btn-course" role="button" aria-controls="106">
+<span class="code">IND&#160;ENG&#160;166</span> 
+<span class="title">Decision Analytics</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+Introductory course on the theory and applications of decision analysis. Elective course that provides a systematic evaluation of decision-making problems under uncertainty. Emphasis on the formulation, analysis, and use of decision-making techniques in engineering, operations research and systems analysis. Includes formulation of risk problems and probabilistic risk assessments. Graphical</span><span class="deschide"> methods and computer software using event trees, decision trees, and influence diagrams that focus on model design.
+</span><br />
+</p>
+<div id="106" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 172 or Statistics 134</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Oren</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 170" class="btn-course" role="button" aria-controls="283">
+<span class="code">IND&#160;ENG&#160;170</span> 
+<span class="title">Industrial Design and Human Factors</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+This course surveys topics related to the design of products and interfaces ranging from alarm clocks, cell phones, and dashboards to logos, presentations, and web sites. Design of such systems requires familiarity with human factors and ergonomics, including the physics and perception of color, sound, and touch, as well as familiarity with case studies and contemporary practices in</span><span class="deschide"> interface design and usability testing. Students will solve a series of design problems individually and in teams.
+</span><br />
+</p>
+<div id="283" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Upper division standing</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Goldberg</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 171" class="btn-course" role="button" aria-controls="142">
+<span class="code">IND&#160;ENG&#160;171</span> 
+<span class="title">Technology Firm Leadership</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Spring 2017, Fall 2016<br/>
+This course explores key management and leadership concepts relevant to the high-technology world. Topics include the firm's key operations, strategic issues, and managerial leadership including personal leadership and talent management. This course prepares technical and business minded students for careers focused on professional and management track careers in high technology. Students</span><span class="deschide"> undertake intensive study of actual business situations through rigorous case-study analysis.
+</span><br />
+</p>
+<div id="142" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Upper division standing</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for 171 after taking Undergraduate Business Administration 105.</p><p><strong>Repeat rules:</strong> Students cannot receive credit for both 171 and Business Administration 105. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 8 weeks - 6 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 172" class="btn-course" role="button" aria-controls="725">
+<span class="code">IND&#160;ENG&#160;172</span> 
+<span class="title">Probability and Risk Analysis for Engineers</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow ">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+This is an introductory probability course for students in engineering. It focuses mostly on random variables and their applications. Applications will be given in such areas as reliability theory, risk theory, inventory theory, financial models, computer science, and others. Note: This course is a statistics course and cannot be used to fulfill any engineering unit or elective requirements.</span><span class="deschide">
+</span><br />
+</p>
+<div id="725" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Mathematics 1A-1B or 16A-16B</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for 172 after taking Statistics 134.</p><p><strong>Repeat rules:</strong>  Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><p><strong>Summer:</strong> 6 weeks - 5 hours of lecture and 2.5 hours of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 173" class="btn-course" role="button" aria-controls="326">
+<span class="code">IND&#160;ENG&#160;173</span> 
+<span class="title">Introduction to Stochastic Processes</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017<br/>
+Probability review. Conditional expectation. The exponential distribution and Poisson process. Discrete and continuous-time Markov chains. Applications reliability, transportation, inventory, queueing, financial, and communications models.
+</span><br />
+</p>
+<div id="326" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Industrial Engineering 172 or Statistics 134</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for Ind Eng 173 after taking Ind Eng 161.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Formerly known as:</strong> Industrial Engin and Oper Research 161</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 180" class="btn-course" role="button" aria-controls="128">
+<span class="code">IND&#160;ENG&#160;180</span> 
+<span class="title">Senior Project</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Spring 2017, Fall 2016<br/>
+Application of systems analysis and industrial engineering to the analysis, planning, and/or design of industrial, service, and government systems. Consideration of technical and economic aspects of equipment and process design. Students work in teams under faculty supervision. Topics vary yearly.
+</span><br />
+</p>
+<div id="128" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 131, 160, 161, 162, 165, Engineering 120, and three other Industrial Engineering and Operations Research electives</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of lecture, 1 hour of discussion, and 6 hours of fieldwork per week</p><p><strong>Summer:</strong> 10 weeks - 1.5 hours of lecture, 1.5 hours of discussion, and 9 hours of fieldwork per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 185" class="btn-course" role="button" aria-controls="1">
+<span class="code">IND&#160;ENG&#160;185</span> 
+<span class="title">Challenge Lab</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow ">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Summer 2017 8 Week Session, Spring 2017<br/>
+This course is meant for students in engineering and other disciplines who seek a challenging, interactive, team-based, and hands-on learning experience in entrepreneurship and technology. In this highly experiential course, students work in simulated start-up teams to create products or start-up ideas to address a broadly-defined need of an industry partner or social challenge.</span><span class="deschide">
+</span><br />
+</p>
+<div id="1" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p><strong>Course Objectives:</strong> 1) To catalyze learning through experiential entrepreneurship <br />2) To help students understand the entrepreneurial context, and how it can create better outcomes.<br />3) To help students identify the best role for themselves within an entrepreneurial organization.
+</p><p><strong>Student Learning Outcomes:</strong> 1) Gain experience with effectively refining ideas and pivoting based on feedback and external factors.<br/>
+2) Gain experience building effective teams to develop and execute an idea<br/>
+3) Become comfortable with failure and how to learn from failure.<br/>
+4) Become adept at succinctly communicating ideas in terms of value proposition and business viability.
+</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong>  Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 4 hours of seminar per week</p><p><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>6 weeks - 10 hours of seminar per week<br /><span style="width: 15px; display: inline-block;"></span>8 weeks - 7.5 hours of seminar per week<br /><span style="width: 15px; display: inline-block;"></span>10 weeks - 6 hours of seminar per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p><p><strong>Instructors:</strong> Goldberg, Sidhu, Wroblewki, IEOR / CET Instructors</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 186" class="btn-course" role="button" aria-controls="424">
+<span class="code">IND&#160;ENG&#160;186</span> 
+<span class="title">Product Management</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Spring 2017, Fall 2016<br/>
+Too often we are enamored in our brilliant ideas, we skip the most important part: building products consumers will want and use. Precious time and effort is wasted on engineering perfect products only to launch to no users. This course teaches product management skills such as attributes of great product managers, reducing risk and cost while accelerating time to market, product life cycle</span><span class="deschide">, stakeholder management and effective development processes.
+</span><br />
+</p>
+<div id="424" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p><strong>Course Objectives:</strong> • Students will experience a live development of a product within the context of a product development process.<br />• Students will learn common methods used in product management <br />• Students will understand the difference between engineering design and product development as a process commonly used in new venture environments.
+</p><p><strong>Student Learning Outcomes:</strong> • Students will actually develop a real world functioning product, to be described as Minimum Viable.<br/>
+• Students will be able to manage a product development process that leads to a product that is technically feasible as well as desired by customers.<br/>
+• Students will gain experience needed to work as product managers in real life environments.
+</p></div>
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of seminar per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p><p><strong>Instructors:</strong> Shen, Sidhu, IEOR / CET Instructors</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 190A" class="btn-course" role="button" aria-controls="102">
+<span class="code">IND&#160;ENG&#160;190A</span> 
+<span class="title">Advanced Topics in Industrial Engineering and Operations Research</span> 
+<span class="hours">1 - 4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Spring 2017, Fall 2016<br/>
+The 190 series cannot be used to fulfill any engineering requirement (engineering units, courses, technical electives, or otherwise).
+</span><br />
+</p>
+<div id="102" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong>  Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of seminar per week</p><p><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>8 weeks - 1.5-7.5 hours of seminar per week<br /><span style="width: 15px; display: inline-block;"></span>10 weeks - 1.5-6 hours of seminar per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> The grading option will be decided by the instructor when the class is offered. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 190B" class="btn-course" role="button" aria-controls="567">
+<span class="code">IND&#160;ENG&#160;190B</span> 
+<span class="title">Advanced Topics in Industrial Engineering and Operations Research: Entrepreneurial Marketing and Finance</span> 
+<span class="hours">1 - 4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2014, Spring 2014, Fall 2013<br/>
+The 190 series cannot be used to fulfill any engineering requirement (engineering units, courses, technical electives, or otherwise).
+</span><br />
+</p>
+<div id="567" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong>  Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of seminar per week</p><p><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>8 weeks - 1.5-7.5 hours of seminar per week<br /><span style="width: 15px; display: inline-block;"></span>10 weeks - 1.5-6 hours of seminar per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> The grading option will be decided by the instructor when the class is offered. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 190C" class="btn-course" role="button" aria-controls="24">
+<span class="code">IND&#160;ENG&#160;190C</span> 
+<span class="title">Advanced Topics in Industrial Engineering and Operations Research</span> 
+<span class="hours">1 - 4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Spring 2017, Fall 2016<br/>
+The 190 series cannot be used to fulfill any engineering requirement (engineering units, courses, technical electives, or otherwise).
+</span><br />
+</p>
+<div id="24" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong>  Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of seminar per week</p><p><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>8 weeks - 1.5-7.5 hours of seminar per week<br /><span style="width: 15px; display: inline-block;"></span>10 weeks - 1.5-6 hours of seminar per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> The grading option will be decided by the instructor when the class is offered. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 190D" class="btn-course" role="button" aria-controls="581">
+<span class="code">IND&#160;ENG&#160;190D</span> 
+<span class="title">Advanced Topics in Industrial Engineering and Operations Research</span> 
+<span class="hours">1 - 4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017, Fall 2014, Spring 2014<br/>
+The 190 series cannot be used to fulfill any engineering requirement (engineering units, courses, technical electives, or otherwise).
+</span><br />
+</p>
+<div id="581" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong>  Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of seminar per week</p><p><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>8 weeks - 1.5-7.5 hours of seminar per week<br /><span style="width: 15px; display: inline-block;"></span>10 weeks - 1.5-6 hours of seminar per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> The grading option will be decided by the instructor when the class is offered. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 190E" class="btn-course" role="button" aria-controls="19">
+<span class="code">IND&#160;ENG&#160;190E</span> 
+<span class="title">Advanced Topics in Industrial Engineering and Operations Research: Entrepreneurship &amp;amp; Innovation</span> 
+<span class="hours">1 - 4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2016, Fall 2015, Spring 2015<br/>
+The 190 series cannot be used to fulfill any engineering requirement (engineering units, courses, technical electives, or otherwise).
+</span><br />
+</p>
+<div id="19" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong>  Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of seminar per week</p><p><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>6 weeks - 2.5-10 hours of seminar per week<br /><span style="width: 15px; display: inline-block;"></span>8 weeks - 1.5-7.5 hours of seminar per week<br /><span style="width: 15px; display: inline-block;"></span>10 weeks - 1.5-6 hours of seminar per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 190F" class="btn-course" role="button" aria-controls="121">
+<span class="code">IND&#160;ENG&#160;190F</span> 
+<span class="title">Advanced Topics in Industrial Engineering and Operations Research</span> 
+<span class="hours">1 - 4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2013, Spring 2012, Spring 2011<br/>
+The 190 series cannot be used to fulfill any engineering requirement (engineering units, courses, technical electives, or otherwise).
+</span><br />
+</p>
+<div id="121" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong>  Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of seminar per week</p><p><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>8 weeks - 1.5-7.5 hours of seminar per week<br /><span style="width: 15px; display: inline-block;"></span>10 weeks - 1.5-6 hours of seminar per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> The grading option will be decided by the instructor when the class is offered. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 190G" class="btn-course" role="button" aria-controls="861">
+<span class="code">IND&#160;ENG&#160;190G</span> 
+<span class="title">Advanced Topics in Industrial Engineering and Operations Research</span> 
+<span class="hours">1 - 4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+The 190 series cannot be used to fulfill any engineering requirement (engineering units, courses, technical electives, or otherwise).
+</span><br />
+</p>
+<div id="861" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong>  Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of seminar per week</p><p><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>8 weeks - 1.5-7.5 hours of seminar per week<br /><span style="width: 15px; display: inline-block;"></span>10 weeks - 1.5-6 hours of seminar per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> The grading option will be decided by the instructor when the class is offered. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 190H" class="btn-course" role="button" aria-controls="833">
+<span class="code">IND&#160;ENG&#160;190H</span> 
+<span class="title">Cases in Global Innovation</span> 
+<span class="hours">1 Unit</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2012, Spring 2011<br/>
+This course is designed primarily for upper-level undergraduate and graduate students interested in examining the major challenges and success factors entrepreneurs and innovators face in globalizing a company, product, or service. Over the duration of this course, students will examines case studies of early, mid-stage, and large-scale enterprises as they seek to start a new venture, introduce</span><span class="deschide"> a new product or service, or capitalize on global economic trends to enhance their existing business. The course content exposes students interested in internationally oriented careers to the strategic thinking involved in international engagement and expansion. Cases will include both U.S. companies seeking to enter emerging markets and emerging market companies looking to expand within their own nations or into markets in developed nations. The course is focused around intensive study of actual business situations through rigorous case-study analysis.
+</span><br />
+</p>
+<div id="833" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Junior or Senior standing</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 8 weeks - 2 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 190I" class="btn-course" role="button" aria-controls="966">
+<span class="code">IND&#160;ENG&#160;190I</span> 
+<span class="title">Cases in Global Innovation: China</span> 
+<span class="hours">1 Unit</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Prior to 2007<br/>
+This course is designed primarily for upper-level undergraduate and graduate students interested in examining the major challenges and success factors entrepreneurs and innovators face in globalizing a company product or service, with a focus on China. Over the duration of this course, students will examine case studies of foreign companies seeking to start a new venture, introduce a new product or service</span><span class="deschide"> to the China market, or domestic Chinese companies seeking to adapt a U.S. or western business model to the China market. The course content exposes students interested in internationally oriented careers to the strategic thinking involved in international engagement and expansion and the particularities of the China market and their contrast with the U.S. market. The course is focused around intensive study of actual business situations through rigorous case-study analysis and the course size is limited to 30.
+</span><br />
+</p>
+<div id="966" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Junior or senior standing. Recommended, but not required to be taken after or along with Engineering 198</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Sidhu</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 190K" class="btn-course" role="button" aria-controls="408">
+<span class="code">IND&#160;ENG&#160;190K</span> 
+<span class="title">Cases in Global Innovation: South Asia</span> 
+<span class="hours">1 Unit</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Prior to 2007<br/>
+This course is designed primarily for upper-level undergraduate and graduate students interested in examining the major challenges and success factors entrepreneurs and innovators face in conducting business, globalizing a company product or service, or investing in South Asia. Over the duration of this course, students will examine case studies of foreign companies seeking to start a new venture, introduce</span><span class="deschide"> a new product or service to the South Asian market, or South Asian companies seeking to adapt a U.S or western business model. The course will put this into the larger context of the political, economic, and social climate in several South Asian countries and explore the constraints to doing business, as well as the policy changes that have allowed for a more conducive business environment.
+</span><br />
+</p>
+<div id="408" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Junior or senior standing. Recommended but not required to be taken after or along with Engineering 198</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p><p><strong>Instructor:</strong> Sidhu</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 191" class="btn-course" role="button" aria-controls="19">
+<span class="code">IND&#160;ENG&#160;191</span> 
+<span class="title">Technology Entrepreneurship</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Spring 2017, Fall 2016<br/>
+This course explores key entrepreneurial concepts relevant to the high-technology world. Topics include the entrepreneurial perspective, start-up strategies, business idea evaluation, business plan writing, introduction to entrepreneurial finance and venture capital, managing growth, and delivering innovative products. This course prepares technical and business minded students for careers</span><span class="deschide"> focused on entrepreneurship, intrapreneurship, and high technology. Students undertake intensive study of actual business situations through rigorous case-study analysis. This course can not be used to fulfill any engineering requirement (engineering units, courses, technical electives, or otherwise).
+</span><br />
+</p>
+<div id="19" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Junior or senior standing</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for 191 after taking 190A prior to fall 2009.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p><p><strong>Instructor:</strong> Sidhu</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 192" class="btn-course" role="button" aria-controls="812">
+<span class="code">IND&#160;ENG&#160;192</span> 
+<span class="title">Berkeley Method of Entrepreneurship Bootcamp</span> 
+<span class="hours">2 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Summer 2017 3 Week Session, Spring 2017<br/>
+This course offers the opportunity to understand the Berkeley Method of Entrepreneurship (BME) in an intensive format. The BME curriculum conveys the latest approaches for training global technology entrepreneurs. This method leverages insights on strategy, tactics, culture, and psychology with an accompanying entrepreneurial infrastructure. The curriculum is structured</span><span class="deschide"> to provide an optimal global entrepreneurship experience from real life experiences.
+</span><br />
+</p>
+<div id="812" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p><strong>Course Objectives:</strong> * To understand and make use of the value of diversity in idea generation and new venture creation.<br />Student should become aware of the infrastructure available through UC Berkeley that an support them in developing new ventures.<br />To understand common tactics in starting new ventures including a lean learning cycle.<br />To understand the mindset of an entrepreneur, including the soft skills, behaviors, and psychological factors most likely to be needed to develop a new venture.
+</p><p><strong>Student Learning Outcomes:</strong> Students should be able to consider a greater number of ideas for global entrepreneurship by observing the effect of background diversity in the class.<br/>
+Students should be able to follow a process of idea generation, rapid prototyping / venture story development, attraction of stakeholders, data collection, and hypothesis testing and regeneration.<br/>
+Students should become aware of the mindset and behaviour required for entreprenurship and be able to reinforce some of these behavious (eg rejection tolerance, comfort with failing or being wrong, inductive learning, venture story telling/communication abilities) through excercizes in the program.
+</p></div>
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 1 weeks - 30 hours of lecture and 20 hours of discussion per week</p><p><strong>Summer:</strong> 3 weeks - 30 hours of lecture and 20 hours of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Thirty hours of lecture and twenty hours of discussion per week for one week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p><p><strong>Instructors:</strong> Sidhu, Ikhlaq</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 195" class="btn-course" role="button" aria-controls="477">
+<span class="code">IND&#160;ENG&#160;195</span> 
+<span class="title">A. Richard Newton Lecture Series</span> 
+<span class="hours">1 Unit</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Spring 2017, Fall 2016<br/>
+This lecture series serves as an entry point for undergraduate and graduate curriculum sequences in entrepreneurship and innovation. The series, established in 2005, is named in honor of A. Richard Newton, a visionary technology industry leader and late dean of the University of California Berkeley College of Engineering. The course features a selection of high-level industry speakers who</span><span class="deschide"> share their insights on industry developments, leadership, and innovation based on their careers.
+</span><br />
+</p>
+<div id="477" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong>  Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1.5 hours of colloquium per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Alternative to final exam. </p><p><strong>Instructor:</strong> Sidhu</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG H196A" class="btn-course" role="button" aria-controls="290">
+<span class="code">IND&#160;ENG&#160;H196A</span> 
+<span class="title">Operations Research and Management Science Honors Thesis</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Prior to 2007<br/>
+Individual study and research for at least one academic year on a special problem approved by a member of the faculty; preparation of the thesis on broader aspects of this work.
+</span><br />
+</p>
+<div id="290" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Open only to students in the honors program</p><p><strong>Credit Restrictions:</strong> Course may be repeated for credit with consent of instructor.</p><p><strong>Repeat rules:</strong> Course may be repeated for credit with consent of instructor. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of independent study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG H196B" class="btn-course" role="button" aria-controls="283">
+<span class="code">IND&#160;ENG&#160;H196B</span> 
+<span class="title">Operations Research and Management Science Honors Thesis</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Prior to 2007<br/>
+Individual study and research for at least one academic year on a special problem approved by a member of the faculty; preparation of the thesis on broader aspects of this work.
+</span><br />
+</p>
+<div id="283" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Open only to students in the honors program</p><p><strong>Repeat rules:</strong> Course may be repeated for credit with consent of instructor. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of independent study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 197" class="btn-course" role="button" aria-controls="371">
+<span class="code">IND&#160;ENG&#160;197</span> 
+<span class="title">Undergraduate Field Research in Industrial Engineering</span> 
+<span class="hours">1 - 12 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Summer 2017 8 Week Session, Summer 2016 8 Week Session, Summer 2015 8 Week Session<br/>
+Students work on a field project under the supervision of a faculty member. Course does not satisfy unit or residence requirements for bachelor's degree.
+</span><br />
+</p>
+<div id="371" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Completion of two semesters of coursework</p><p><strong>Repeat rules:</strong> Course may be repeated for credit. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-12 hours of fieldwork per week</p><p><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>6 weeks - 2.5-30 hours of fieldwork per week<br /><span style="width: 15px; display: inline-block;"></span>8 weeks - 1.5-22.5 hours of fieldwork per week<br /><span style="width: 15px; display: inline-block;"></span>10 weeks - 1.5-18 hours of fieldwork per week</p><!--<p class=""><strong>Additional Format:</strong> Forty-five hours of academic work per unit per term. Forty-five hours of academic work per unit per term.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 198" class="btn-course" role="button" aria-controls="808">
+<span class="code">IND&#160;ENG&#160;198</span> 
+<span class="title">Directed Group Studies for Advanced Undergraduates</span> 
+<span class="hours">1 - 4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Spring 2017, Fall 2016<br/>
+Group studies of selected topics. Semester course unit value and contact hours will have a one-to-one ratio.
+</span><br />
+</p>
+<div id="808" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Senior standing in Engineering</p><p><strong>Repeat rules:</strong> Course may be repeated for credit. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of directed group study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 199" class="btn-course" role="button" aria-controls="987">
+<span class="code">IND&#160;ENG&#160;199</span> 
+<span class="title">Supervised Independent Study</span> 
+<span class="hours">1 - 4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Summer 2017 8 Week Session, Summer 2017 First 6 Week Session<br/>
+Supervised independent study. Enrollment restrictions apply.
+</span><br />
+</p>
+<div id="987" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor and major adviser</p><p><strong>Credit Restrictions:</strong> Course may be repeated for a maximum of four units per semester.</p><p><strong>Repeat rules:</strong>  Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of independent study per week</p><p><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>6 weeks - 2.5-10 hours of independent study per week<br /><span style="width: 15px; display: inline-block;"></span>8 weeks - 2-7.5 hours of independent study per week<br /><span style="width: 15px; display: inline-block;"></span>10 weeks - 1.5-6 hours of independent study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 215" class="btn-course" role="button" aria-controls="363">
+<span class="code">IND&#160;ENG&#160;215</span> 
+<span class="title">Analysis and Design of Databases</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2011, Fall 2007, Fall 2006<br/>
+Advanced topics in information management, focusing on design of relational databases, querying, and normalization. New issues raised by the World Wide Web. Research projects on current topics in information technology.
+</span><br />
+</p>
+<div id="363" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate standing</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 1 hour of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Goldberg</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 220" class="btn-course" role="button" aria-controls="42">
+<span class="code">IND&#160;ENG&#160;220</span> 
+<span class="title">Economics and Dynamics of Production</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+Analysis of the capacity and efficiency of production systems. Development of analytical tools for improving efficiency, customer service, and profitability of production environments. Design and development of effective industrial production planning systems. Modelling principles are illustrated by reviewing actual large-scale planning systems successfully implemented for naval ship</span><span class="deschide"> overhaul and for semiconductor manufacturing.
+</span><br />
+</p>
+<div id="42" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 262A (may be taken concurrently), Mathematics 104 recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Leachman</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 221" class="btn-course" role="button" aria-controls="792">
+<span class="code">IND&#160;ENG&#160;221</span> 
+<span class="title">Introduction to Financial Engineering</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+A course on financial concepts useful for engineers that will cover, among other topics, those of interest rates, present values, arbitrage, geometric Brownian motion, options pricing, &amp; portfolio optimization. The Black-Scholes option-pricing formula will be derived and studied. Stochastic simulation ideas will be introduced and used to obtain the risk-neutral geometric Brownian</span><span class="deschide"> motion values for certain types of Asian, barrier, and lookback options. Portfolio optimization problems will be considered both from a mean-variance and from a utility function point of view. Methods for evaluating real options will be presented. The use of mathematical optimization models as a framework for analyzing financial engineering problems will be shown.
+</span><br />
+</p>
+<div id="792" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 162 or 262A, course in probability, or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Adler, Oren, Ross</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 222" class="btn-course" role="button" aria-controls="373">
+<span class="code">IND&#160;ENG&#160;222</span> 
+<span class="title">Financial Engineering Systems I</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Introductory graduate level course, focusing on applications of operations research techniques, e.g., probability, statistics, and optimization, to financial engineering. The course starts with a quick review of 221, including no-arbitrage theory, complete market, risk-neutral pricing, and hedging in discrete model, as well as basic probability and statistical tools. It then covers Brownian</span><span class="deschide"> motion, martingales, and Ito's calculus, and deals with risk-neutral pricing in continuous time models. Standard topics include Girsanov transformation, martingale representation theorem, Feyman-Kac formula, and American and exotic option pricings. Simulation techniques will be discussed at the end of the semester, and MATLAB (or C or S-Plus) will be used for computation.
+</span><br />
+</p>
+<div id="373" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 221 or equivalent; 172 or Statistics 134 or a one-semester probability course</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Guo</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 223" class="btn-course" role="button" aria-controls="303">
+<span class="code">IND&#160;ENG&#160;223</span> 
+<span class="title">Financial Engineering Systems II</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017, Spring 2016<br/>
+Advanced graduate course for Ph.D. students interested in pursuing a professional/research career in financial engineering. The course will start with a quick review of 222: the basics of Brownian motion, martingales, Ito's calculus, risk-neutral pricing in continuous time models. It then covers rigorously and in depth the most fundamental probability concepts for financial engineers, including</span><span class="deschide"> stochastic integral, stochastic differential equations, and semi-martingales. The second half of the course will discuss the most recent topics in financial engineering, such as credit risk and analysis, risk measures and portfolio optimization, and liquidity risk and models.
+</span><br />
+</p>
+<div id="303" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 222 or equivalent; 161 or 263A or equivalent</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Guo</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG C227A" class="btn-course" role="button" aria-controls="16">
+<span class="code">IND&#160;ENG&#160;C227A</span> 
+<span class="title">Introduction to Convex Optimization</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Prior to 2007<br/>
+The course covers some convex optimization theory and algorithms, and describes various applications arising in engineering design, machine learning and statistics, finance, and operations research. The course includes laboratory assignments, which consist of hands-on experience.,Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2013<br/>
+The course covers some convex optimization</span><span class="deschide"> theory and algorithms, and describes various applications arising in engineering design, machine learning and statistics, finance, and operations research. The course includes laboratory assignments, which consist of hands-on experience.
+</span><br />
+</p>
+<div id="16" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture, 1 hour of discussion, and 2 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> El Ghaoui, Wainwright</p><p><strong>Formerly known as:</strong> Electrical Engineering C227A/Industrial Engin and Oper Research C227A</p><p><strong>Also listed as:</strong> EL&#160;ENG&#160;C227T</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG C227A" class="btn-course" role="button" aria-controls="73">
+<span class="code">IND&#160;ENG&#160;C227A</span> 
+<span class="title">Introduction to Convex Optimization</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Prior to 2007<br/>
+The course covers some convex optimization theory and algorithms, and describes various applications arising in engineering design, machine learning and statistics, finance, and operations research. The course includes laboratory assignments, which consist of hands-on experience.,Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2013<br/>
+The course covers some convex optimization</span><span class="deschide"> theory and algorithms, and describes various applications arising in engineering design, machine learning and statistics, finance, and operations research. The course includes laboratory assignments, which consist of hands-on experience.
+</span><br />
+</p>
+<div id="73" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture, 1 hour of discussion, and 2 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> El Ghaoui, Wainwright</p><p><strong>Formerly known as:</strong> Electrical Engineering C227A/Industrial Engin and Oper Research C227A</p><p><strong>Also listed as:</strong> EL&#160;ENG&#160;C227T</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG C227A" class="btn-course" role="button" aria-controls="557">
+<span class="code">IND&#160;ENG&#160;C227A</span> 
+<span class="title">Introduction to Convex Optimization</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Prior to 2007<br/>
+The course covers some convex optimization theory and algorithms, and describes various applications arising in engineering design, machine learning and statistics, finance, and operations research. The course includes laboratory assignments, which consist of hands-on experience.,Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2013<br/>
+The course covers some convex optimization</span><span class="deschide"> theory and algorithms, and describes various applications arising in engineering design, machine learning and statistics, finance, and operations research. The course includes laboratory assignments, which consist of hands-on experience.
+</span><br />
+</p>
+<div id="557" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture, 1 hour of discussion, and 2 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> El Ghaoui, Wainwright</p><p><strong>Formerly known as:</strong> Electrical Engineering C227A/Industrial Engin and Oper Research C227A</p><p><strong>Also listed as:</strong> EL&#160;ENG&#160;C227T</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG C227A" class="btn-course" role="button" aria-controls="637">
+<span class="code">IND&#160;ENG&#160;C227A</span> 
+<span class="title">Introduction to Convex Optimization</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Prior to 2007<br/>
+The course covers some convex optimization theory and algorithms, and describes various applications arising in engineering design, machine learning and statistics, finance, and operations research. The course includes laboratory assignments, which consist of hands-on experience.,Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2013<br/>
+The course covers some convex optimization</span><span class="deschide"> theory and algorithms, and describes various applications arising in engineering design, machine learning and statistics, finance, and operations research. The course includes laboratory assignments, which consist of hands-on experience.
+</span><br />
+</p>
+<div id="637" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture, 1 hour of discussion, and 2 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> El Ghaoui, Wainwright</p><p><strong>Formerly known as:</strong> Electrical Engineering C227A/Industrial Engin and Oper Research C227A</p><p><strong>Also listed as:</strong> EL&#160;ENG&#160;C227T</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG C227B" class="btn-course" role="button" aria-controls="914">
+<span class="code">IND&#160;ENG&#160;C227B</span> 
+<span class="title">Convex Optimization and Approximation</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+Convex optimization as a systematic approximation tool for hard decision problems. Approximations of combinatorial optimization problems, of stochastic programming problems, of robust optimization problems (i.e., with optimization problems with unknown but bounded data), of optimal control problems. Quality estimates of the resulting approximation. Applications in robust engineering</span><span class="deschide"> design, statistics, control, finance, data mining, operations research.
+</span><br />
+</p>
+<div id="914" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 227A or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> El Ghaoui</p><p><strong>Also listed as:</strong> EL&#160;ENG&#160;C227C</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 231" class="btn-course" role="button" aria-controls="84">
+<span class="code">IND&#160;ENG&#160;231</span> 
+<span class="title">Introduction to Data Modeling, Statistics, and System Simulation</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+This course uses simulation models for analyzing and optimizing systems where the underlying processes and/or parameters are not fully known, but data may be available, sampled, or artificially generated. Monte Carlo simulations are used in a weekly laboratory to model systems that may be too complex to approximate accurately with deterministic, stationary, or static models; and to</span><span class="deschide"> measure the robustness of predictions and manage risks in decisions based on data-driven models.
+</span><br />
+</p>
+<div id="84" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p><strong>Course Objectives:</strong> Students will understand the similarities and differences in methods for simulating the dynamics of complex, stochastic systems and apply these to model real systems. Special techniques for experimenting with computer simulations and analyzing the results will be used to understand the trade-offs in risk and performance in the presence of uncertainty.
+</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 262A, 263A or equivalents and some programming experience</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 1 hour of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Schruben, Guo, Lim</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 240" class="btn-course" role="button" aria-controls="143">
+<span class="code">IND&#160;ENG&#160;240</span> 
+<span class="title">Optimization Analytics</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Computing technology has advanced to the point that commonly available tools can be used to solve practical decision problems and optimize real-world systems quickly and efficiently. This course will focus on the understanding and use of such tools, to model and solve complex real-world business problems, to analyze the impact of changing data and relaxing assumptions on these decisions,</span><span class="deschide"> and to understand the risks associated with particular decisions and outcomes.
+</span><br />
+</p>
+<div id="143" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Basic analysis and linear algebra, and basic computer skills and experience</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 241" class="btn-course" role="button" aria-controls="530">
+<span class="code">IND&#160;ENG&#160;241</span> 
+<span class="title">Risk Modeling, Simulation, and Data Analysis</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+This is a Masters of Engineering course, in which students will develop a fundamental understanding of how randomness and uncertainty are root causes of risk in modern enterprises. The technical material will be presented in the context of engineering team system design and operations decisions.
+</span><br />
+</p>
+<div id="530" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Basic notions of probability, statistics, and some programming and spreadsheet analysis experience</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 242" class="btn-course" role="button" aria-controls="488">
+<span class="code">IND&#160;ENG&#160;242</span> 
+<span class="title">Applications in Data Analysis</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017, Spring 2016<br/>
+This course applies foundational concepts in programming, databases, machine learning, and statistical modeling to answer questions from business and social science. The goal is for students to develop the experience and intuition to gather and build new datasets and answer substantive questions.<br/>
+</span><br />
+</p>
+<div id="488" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Prerequisites include working knowledge of a programming language (preferably Python), database language (preferably SQL), a statistical package (preferably R), and an understanding of basic linear and non-­‐linear statistical models. Prior exposure to machine learning is helpful, though this will be covered in the predictive analytics and theory course</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Fleming</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 248" class="btn-course" role="button" aria-controls="981">
+<span class="code">IND&#160;ENG&#160;248</span> 
+<span class="title">Supply Chain Innovation, Strategy, and Analytics</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2013<br/>
+This course introduces you to the field of supply chain management through a series of lectures and case studies that emphasize innovative concepts in supply chain management that have proven to be beneficial for a good number of adopters. Innovations that we will discuss include collaborative forecasting, social media, online procurement, and technologies such as RFID.
+</span><br />
+</p>
+<div id="981" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Introductory course on Production and Inventory Control or Operations Management</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 250" class="btn-course" role="button" aria-controls="294">
+<span class="code">IND&#160;ENG&#160;250</span> 
+<span class="title">Introduction to Production Planning and Logistics Models</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+This will be an introductory first-year graduate course covering fundamental models in production planning and logistics. Models, algorithms, and analytical techniques for inventory control, production scheduling, production planning, facility location and logistics network design, vehicle routing, and demand forecasting will be discussed.
+</span><br />
+</p>
+<div id="294" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 262A and 263A taken concurrently</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Kaminsky</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 251" class="btn-course" role="button" aria-controls="923">
+<span class="code">IND&#160;ENG&#160;251</span> 
+<span class="title">Facilities Design and Logistics</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2013, Fall 2012, Spring 2005<br/>
+Design and analysis of models and algorithms for facility location, vehicle routing, and facility layout problems. Emphasis will be placed on both the use of computers and the theoretical analysis of models and algorithms.
+</span><br />
+</p>
+<div id="923" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 262A, and either 172 or Statistics 134</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Kaminsky</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 252" class="btn-course" role="button" aria-controls="184">
+<span class="code">IND&#160;ENG&#160;252</span> 
+<span class="title">Service Operations Management</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2014, Spring 2013, Spring 2012<br/>
+This course focuses on the design of service businesses such as commercial banks, hospitals, airline companies, call centers, restaurants, Internet auction websites, and information providers. The material covered in the course includes internet auctions, procurement, service facility location, sevice quality management, capacity planning, airline ticket pricing, financial plan design</span><span class="deschide">, pricing of digital goods, call center management, service competition, revenue management in queueing systems, information intermediaries, and health care. The goal of the instructors is to equip the students with sufficient technical background to be able to do research in this area.
+</span><br />
+</p>
+<div id="184" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Students who have not advanced to M.S., M.S./Ph.D., or Ph.D. levels or are not in the Industrial Engineering and Operations Research Department must consult with the instructor before taking this course for credit</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Shen, Chen</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 253" class="btn-course" role="button" aria-controls="828">
+<span class="code">IND&#160;ENG&#160;253</span> 
+<span class="title">Supply Chain Operation and Management</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2016, Spring 2014, Spring 2013<br/>
+Supply chain analysis is the study of quantitative models that characterize various economic trade-offs in the supply chain. The field has made significant strides on both theoretical and practical fronts. On the theoretical front, supply chain analysis inspires new research ventures that blend operations research, game theory, and microeconomics. These ventures result in an unprecedented</span><span class="deschide"> amalgamation of prescriptive, descriptive, and predictive models characteristic of each subfield. On the practical front, supply chain analysis offers solid foundations for strategic positioning, policy setting, and decision making.
+</span><br />
+</p>
+<div id="828" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Shen</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG C253" class="btn-course" role="button" aria-controls="818">
+<span class="code">IND&#160;ENG&#160;C253</span> 
+<span class="title">Supply Chain and Logistics Management</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+Supply chain analysis is the study of quantitative models that characterize various economic trade-offs in the supply chain. The field has made significant strides on both theoretical and practical fronts. On the theoretical front, supply chain analysis inspires new research ventures that blend operations research, game theory, and microeconomics. These ventures result in an unprecedented</span><span class="deschide"> amalgamation of prescriptive, descriptive, and predictive models characteristic of each subfield. On the practical front, supply chain analysis offers solid foundations for strategic positioning, policy setting, and decision making.
+</span><br />
+</p>
+<div id="818" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Shen</p><p><strong>Also listed as:</strong> CIV&#160;ENG&#160;C258</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 254" class="btn-course" role="button" aria-controls="258">
+<span class="code">IND&#160;ENG&#160;254</span> 
+<span class="title">Production and Inventory Systems</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2014, Fall 2012, Spring 2012<br/>
+Mathematical and computer methods for design, planning, scheduling, and control in manufacturing and distribution systems.
+</span><br />
+</p>
+<div id="258" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 262A or 150; 263A or 161 recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 258" class="btn-course" role="button" aria-controls="203">
+<span class="code">IND&#160;ENG&#160;258</span> 
+<span class="title">Control and Optimization for Power Systems</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017<br/>
+One of the grand challenges of this century is the modernization of electrical power networks. This graduate-level course provides a fundamental understanding of the mathematics behind the operation of power grids.
+</span><br />
+</p>
+<div id="203" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p><strong>Course Objectives:</strong> <br/>
+Students will understand the operation of power networks from a control and optimization perspective. They will learn how mathematical tools and computational methods are used for the design, modeling, planning, and real-time operation of power grids. They will also learn about the interaction between operation and electricity market.
+</p></div>
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Lavaei</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 261" class="btn-course" role="button" aria-controls="497">
+<span class="code">IND&#160;ENG&#160;261</span> 
+<span class="title">Experimenting with Simulated Systems</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2014, Spring 2010, Spring 2009<br/>
+This course will introduce graduate and upper division undergraduate students to modern methods for simulating discrete event models of complex stochastic systems. About a third of the course will be devoted to system modeling, with the remaining two-thirds concentrating on simulation experimental design and analysis.
+</span><br />
+</p>
+<div id="497" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 165 or equivalent statistics course, and some computer programming background</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Ross, Schruben, Shanthikumar</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 262A" class="btn-course" role="button" aria-controls="24">
+<span class="code">IND&#160;ENG&#160;262A</span> 
+<span class="title">Mathematical Programming I</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Basic graduate course in linear programming and introduction to network flows and non-linear programming. Formulation and model building. The simplex method and its variants. Duality theory. Sensitivity analysis, parametric programming, convergence (theoretical and practical). Polynomial time algorithms. Introduction to network flows models. Optimality conditions for non linear optimization</span><span class="deschide"> problems.
+</span><br />
+</p>
+<div id="24" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Mathematics 110</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Adler, Oren</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 262B" class="btn-course" role="button" aria-controls="455">
+<span class="code">IND&#160;ENG&#160;262B</span> 
+<span class="title">Mathematical Programming II</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+Basic first year graduate course in optimization of non-linear programs. Formulation and model building. Theory of optimization for constrained and unconstrained problems. Study of algorithms for non-linear optimization with emphasis on design considerations and performance evaluation.
+</span><br />
+</p>
+<div id="455" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MATH&#160;110 or equivalent</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Adler, Oren</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 263A" class="btn-course" role="button" aria-controls="252">
+<span class="code">IND&#160;ENG&#160;263A</span> 
+<span class="title">Applied Stochastic Process I</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Conditional Expectation. Poisson and general point process and renewal theory. Renewal<br/>
+reward processes with application to inventory, congestion, and replacement models. <br/>
+Discrete and continuous time Markov chains; with applications to various stochastic <br/>
+systems--such as queueing systems, inventory models and reliability systems.
+</span><br />
+</p>
+<div id="252" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Industrial Engineering 172, or Statistics 134 or Statistics 200A.  Probability background with Industrial Engineering 161 or equivalent is recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Righter</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 263B" class="btn-course" role="button" aria-controls="124">
+<span class="code">IND&#160;ENG&#160;263B</span> 
+<span class="title">Applied Stochastic Process II</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+Continuous time Markov chains. The reversed chain concept in continuous time Markov chains with applications of queueing theory. Semi-Markov processes with emphasis on application. Brownian Motion. Random walks with applications. Introduction to Martinjales.
+</span><br />
+</p>
+<div id="124" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 263A</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Righter</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 264" class="btn-course" role="button" aria-controls="30">
+<span class="code">IND&#160;ENG&#160;264</span> 
+<span class="title">Computational Optimization</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+This course is on computational methods for the solution of large-scale optimization problems. The focus is on converting the theory of optimization into effective computational techniques. Course topics include an introduction to polyhedral theory, cutting plane methods, relaxation, decomposition and heuristic approaches for large-scale optimization problems.
+</span><br />
+</p>
+<div id="30" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 262A</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Atamturk</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 265" class="btn-course" role="button" aria-controls="660">
+<span class="code">IND&#160;ENG&#160;265</span> 
+<span class="title">Learning and Optimization</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+This course will cover topics related to the interplay between optimization and statistical learning. The first part of the course will cover statistical modeling procedures that can be defined as the minimizer of a suitable optimization problem. The second part of the course will discuss the formulation and numerical implementation of learning-based model predictive control (LBMPC)</span><span class="deschide">, which is a method for robust adaptive optimization that can use machine learning to provide the adaptation. The last part of the course will deal with inverse decision-making problems, which are problems where an agent's decisions are observed and used to infer properties about the agent.
+</span><br />
+</p>
+<div id="660" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Course on optimization (Industrial Engineering 162 or equivalent); course on statistics or stochastic processes (Industrial Engineering 165 or equivalent) Industrial Engin and Oper Research 165</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Aswani</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 266" class="btn-course" role="button" aria-controls="756">
+<span class="code">IND&#160;ENG&#160;266</span> 
+<span class="title">Network Flows and Graphs</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Survey of solution techniques and problems that have formulations in terms of flows in networks. Max-flow min-cut theorem. Minimum cost flows. Multiterminal and multicommodity flows. Relationship with linear programming, transportation problems, electrical networks and critical path scheduling.
+</span><br />
+</p>
+<div id="756" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 262A (may be taken concurrently)</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Adler, Hochbaum</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 267" class="btn-course" role="button" aria-controls="467">
+<span class="code">IND&#160;ENG&#160;267</span> 
+<span class="title">Queueing Theory</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2016, Spring 2015, Fall 2012<br/>
+The result &quot;L = (lambda) w&quot; and other conservation laws. Elementary queueing models; comparing single- and multiple-server queues. PASTA. Work. Markovian queues; product form results. Overflow models. Embedded Markov chains. Random walks and the GI/G/l queues. Work conservation; priorities. Bounds and approximations.
+</span><br />
+</p>
+<div id="467" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 263A</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 268" class="btn-course" role="button" aria-controls="513">
+<span class="code">IND&#160;ENG&#160;268</span> 
+<span class="title">Applied Dynamic Programming</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017, Fall 2013, Fall 2012<br/>
+Dynamic programming formulation of deterministic decision process problems, analytical and computational methods of solution, application to problems of equipment replacement, resource allocation, scheduling, search and routing. Brief introduction to decision making under risk and uncertainty.
+</span><br />
+</p>
+<div id="513" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Mathematics 51</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Dreyfus</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 269" class="btn-course" role="button" aria-controls="747">
+<span class="code">IND&#160;ENG&#160;269</span> 
+<span class="title">Integer Programming and Combinatorial Optimization</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2010, Spring 2009, Spring 2004<br/>
+The course deals with discrete optimization problems and their complexity. These topics include complexity analysis of algorithms and its drawbacks; solving a system of linear integer equations and inequalities; strongly polynomial algorithms, network flow problems (including matching and branching); polyhedral optimization; branch and bound and lagrangean relaxation.
+</span><br />
+</p>
+<div id="747" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 262A</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Hochbaum</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 270" class="btn-course" role="button" aria-controls="618">
+<span class="code">IND&#160;ENG&#160;270</span> 
+<span class="title">Current Readings in Innovation</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2015, Spring 2015, Fall 2014<br/>
+This seminar and discussion class aims to survey current and classic research on innovation and help<br/>
+doctoral students formulate their research designs. Readings are drawn from economics, organizations,<br/>
+and other social sciences, and engineering and in particular, data science research on analyzing large<br/>
+data sets. Students develop research designs and present each week and</span><span class="deschide"> formally for their final. A<br/>
+written paper is also required. Authors join us, physically or virtually.
+</span><br />
+</p>
+<div id="618" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Background: upper level standing or graduate student, any school</p><p><strong>Repeat rules:</strong>  Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of seminar per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Fleming, Lee</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 280" class="btn-course" role="button" aria-controls="177">
+<span class="code">IND&#160;ENG&#160;280</span> 
+<span class="title">Systems Analysis and Design Project</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2011, Spring 2010, Spring 2009<br/>
+A project course for students interested in applications of operations research and engineering methods. One or more systems, which may be public or in the private sector, will be selected for detailed analysis and re-designed by student groups.
+</span><br />
+</p>
+<div id="177" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 262A, 263A</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 288" class="btn-course" role="button" aria-controls="666">
+<span class="code">IND&#160;ENG&#160;288</span> 
+<span class="title">Automation Science and Engineering</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2013<br/>
+Automation is a central aspect of contemporary industrial engineering that combines sensors, actuators, and computing to monitor and perform operations. It is applied to a broad range of applications from manufacturing to transporation to healthcare. This course provides an introduction to analysis, models, algorithms, research, and practical skills in the field and includes a laboratory component where students</span><span class="deschide"> will learn and apply basic skills in computer programming and interfacing of sensors and motors that will culminate in a team design project.
+</span><br />
+</p>
+<div id="666" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture, 1 hour of discussion, and 1 hour of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 290" class="btn-course" role="button" aria-controls="644">
+<span class="code">IND&#160;ENG&#160;290</span> 
+<span class="title">Special Topics in Industrial Engineering and Operation Research</span> 
+<span class="hours">2 - 3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Spring 2017, Fall 2016<br/>
+Lectures and appropriate assignments on fundamental or applied topics of current interest in industrial engineering and operations research.
+</span><br />
+</p>
+<div id="644" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Upper level standing or graduate student</p><p><strong>Repeat rules:</strong>  Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2-3 hours of lecture per week</p><p><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>6 weeks - 5-7.5 hours of lecture per week<br /><span style="width: 15px; display: inline-block;"></span>10 weeks - 3-4.5 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 290A" class="btn-course" role="button" aria-controls="32">
+<span class="code">IND&#160;ENG&#160;290A</span> 
+<span class="title">Dynamic Production Theory and Planning Models</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2016, Spring 2014, Fall 2009<br/>
+Development of dynamic activity analysis models for production planning and scheduling. Relationship to theory of production, inventory theory and hierarchical organization of production management.
+</span><br />
+</p>
+<div id="32" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 220 and 254</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 290G" class="btn-course" role="button" aria-controls="824">
+<span class="code">IND&#160;ENG&#160;290G</span> 
+<span class="title">Advanced Mathematical Programming</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2014<br/>
+Selected topics in mathematical programming. The actual subjects covered may include: Convex analysis, duality theory, complementary pivot theory, fixed point theory, optimization by vector space methods, advanced topics in nonlinear algorithms, complexity of mathematical programming algorithms (including linear programming).
+</span><br />
+</p>
+<div id="824" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 262A</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 290R" class="btn-course" role="button" aria-controls="240">
+<span class="code">IND&#160;ENG&#160;290R</span> 
+<span class="title">Topics in Risk Theory</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Spring 2016, Spring 2015, Spring 2014<br/>
+Seminar on selected topics from financial and technological risk theory, such as risk modeling, attitudes towards risk and utility theory, portfolio management, gambling and speculation, insurance and other risk-sharing arrangements, stochastic models of risk generation and run off, risk reserves, Bayesian forecasting and credibility approximations, influence diagrams, decision trees.</span><span class="deschide"> Topics will vary from year to year.
+</span><br />
+</p>
+<div id="240" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 263A</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 295" class="btn-course" role="button" aria-controls="390">
+<span class="code">IND&#160;ENG&#160;295</span> 
+<span class="title">A. Richard Newton Lecture Series</span> 
+<span class="hours">1 Unit</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Spring 2017, Fall 2016<br/>
+This lecture series serves as an entry point for undergraduate and graduate curriculum sequences in entrepreneurship and innovation. The series, established in 2005 is named in honor of A. Richard Newton, a visionary technology industry leader and late dean of the University of California-Berkeley College of Engineering. The course features a selection of high-level industry speakers who</span><span class="deschide"> share their insights on industry developments, leadership and innovation based on their careers.
+</span><br />
+</p>
+<div id="390" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong>  Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1.5 hours of colloquium per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p><p><strong>Instructor:</strong> Sidhu</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 298" class="btn-course" role="button" aria-controls="991">
+<span class="code">IND&#160;ENG&#160;298</span> 
+<span class="title">Group Studies, Seminars, or Group Research</span> 
+<span class="hours">1 - 4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Spring 2017, Fall 2016<br/>
+Advanced seminars in industrial engineering and operations research.
+</span><br />
+</p>
+<div id="991" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of colloquium per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> The grading option will be decided by the instructor when the class is offered. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 299" class="btn-course" role="button" aria-controls="509">
+<span class="code">IND&#160;ENG&#160;299</span> 
+<span class="title">Individual Study or Research</span> 
+<span class="hours">1 - 12 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Fall 2017, Summer 2017 10 Week Session, Summer 2017 8 Week Session<br/>
+Individual investigation of advanced industrial engineering problems.
+</span><br />
+</p>
+<div id="509" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3-36 hours of independent study per week</p><p><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>6 weeks - 7.5-40 hours of independent study per week<br /><span style="width: 15px; display: inline-block;"></span>8 weeks - 6-40 hours of independent study per week<br /><span style="width: 15px; display: inline-block;"></span>10 weeks - 4.5-40 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Individual conferences. Forty-five hours of work per unit per term.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate</p><p><strong>Grading:</strong> The grading option will be decided by the instructor when the class is offered. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 601" class="btn-course" role="button" aria-controls="119">
+<span class="code">IND&#160;ENG&#160;601</span> 
+<span class="title">Individual Study for Master's Students</span> 
+<span class="hours">1 - 12 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Summer 2017 8 Week Session, Summer 2016 8 Week Session, Spring 2016<br/>
+Individual study for the comprehensive in consultation with the field adviser. Units may not be used to meet either unit or residence requirements for a master's degree.
+</span><br />
+</p>
+<div id="119" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 0 hours of independent study per week</p><p><strong>Summer:</strong> 8 weeks - 6-68 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Forty-five hours of work per unit per term. Individual conferences.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate examination preparation</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=IND ENG 602" class="btn-course" role="button" aria-controls="202">
+<span class="code">IND&#160;ENG&#160;602</span> 
+<span class="title">Individual Study for Doctoral Students</span> 
+<span class="hours">1 - 12 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Industrial Engin and Oper Research<br/>
+Terms offered: Summer 2017 8 Week Session, Summer 2016 8 Week Session, Spring 2016<br/>
+Individual study in consultation with the major field adviser, intended to provide an opportunity for qualified students to prepare themselves for the various examinations required of candidates for the Ph.D. (and other doctoral degrees). May not be used for unit or residence requirements for the doctoral degree.
+</span><br />
+</p>
+<div id="202" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 0 hours of independent study per week</p><p><strong>Summer:</strong> 8 weeks - 6-68 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Forty-five hours of work per unit per term. Individual conferences.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Graduate examination preparation</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p></div>
+</div>
+</div>
+</div></div>
+]]>
+</coursestext>
+<faculty>
+<![CDATA[
+<h2>Faculty and Instructors</h2><h4>Faculty</h4><p class="facitem"><strong>Ilan Adler, <i>Professor</i>. </strong>Financial engineering, optimization theory, combinatorial probability models.<br/><a href="http://vcresearch.berkeley.edu/node/13998"target="_blank">Research Profile</a></p><p class="facitem"><strong>Anil Jayanti Aswani, <i>Assistant Professor</i>. </strong></p><p class="facitem"><strong>Alper Atamturk, <i>Professor</i>. </strong>Logistics, integer programming, computational optimization, robust optimization.<br/><a href="http://vcresearch.berkeley.edu/node/13999"target="_blank">Research Profile</a></p><p class="facitem"><strong>Laurent El Ghaoui, <i>Professor</i>. </strong>Decision-making under uncertainty, convex optimization, robust solutions, semidefinite programming, exhaustive simulation.<br/><a href="http://vcresearch.berkeley.edu/node/15019"target="_blank">Research Profile</a></p><p class="facitem"><strong>Lee Fleming, <i>Professor</i>. </strong>Invention, innovation, patents, big data, leadership.<br/><a href="http://vcresearch.berkeley.edu/node/16450"target="_blank">Research Profile</a></p><p class="facitem"><strong>Ken Goldberg, <i>Professor</i>. </strong>Robotics, art, social media, new media, automation.<br/><a href="http://vcresearch.berkeley.edu/node/14251"target="_blank">Research Profile</a></p><p class="facitem"><strong>Xin Guo, <i>Professor</i>. </strong>Financial engineering, industrial engineering and operations, stochastic processes and applications, stochastic control, semi-martingale and filteration expansions, credit risk, (ir)reversible investment.<br/><a href="http://vcresearch.berkeley.edu/node/14760"target="_blank">Research Profile</a></p><p class="facitem"><strong>Dorit S. Hochbaum, <i>Professor</i>. </strong>Data mining, integer programming, discrete optimization, network flow techniques, clustering, image segmentation, machine vision, pattern recognition.<br/><a href="http://vcresearch.berkeley.edu/node/14852"target="_blank">Research Profile</a></p><p class="facitem"><strong>Philip M. Kaminsky, <i>Professor</i>. </strong>Biotechnology, logistics, distribution, algorithms, planning, optimization, control, manufacturing, semiconductors, scheduling, biomanufacturing, probabilistic methods, production scheduling, supply chain management, operations management, logistic.<br/><a href="http://vcresearch.berkeley.edu/node/14349"target="_blank">Research Profile</a></p><p class="facitem"><strong>Javad Lavaei, <i>Assistant Professor</i>. </strong></p><p class="facitem"><strong>Robert C. Leachman, <i>Professor</i>. </strong>Logistics, manufacturing, semiconductors, scheduling, supply chain systems, dynamic production models, production planning and scheduling.<br/><a href="http://vcresearch.berkeley.edu/node/14996"target="_blank">Research Profile</a></p><p class="facitem"><strong>Shmuel S. Oren, <i>Professor</i>. </strong>Economics, algorithms, financial engineering, risk management, planning, optimization, operation of electric power systems, market based coordination of network systems, trading instruments.<br/><a href="http://vcresearch.berkeley.edu/node/15364"target="_blank">Research Profile</a></p><p class="facitem"><strong>Christos H. Papadimitriou, <i>Professor</i>. </strong>Economics, evolution., algorithms, game theory, networks, optimization, complexity.<br/><a href="http://vcresearch.berkeley.edu/node/15369"target="_blank">Research Profile</a></p><p class="facitem"><strong>Rhonda L. Righter, <i>Professor</i>. </strong>Modeling, optimization, stochastic systems, systems with uncertainty.<br/><a href="http://vcresearch.berkeley.edu/node/14207"target="_blank">Research Profile</a></p><p class="facitem"><strong>Lee W. Schruben, <i>Professor</i>. </strong>Health care systems, simulation, optimization of simulation system response, foundations of simulation modeling, supply chains, experimental designs, biopharmaceuticals, Production.<br/><a href="http://vcresearch.berkeley.edu/node/15313"target="_blank">Research Profile</a></p><p class="facitem"><strong>Zuo-Jun Shen, <i>Professor</i>. </strong>Logistics, supply chain design and management, inventory management, auction mechanism design.<br/><a href="http://vcresearch.berkeley.edu/node/14218"target="_blank">Research Profile</a></p><p class="facitem"><strong>Ikhlaq Sidhu, <i>Adjunct Professor</i>. </strong>Technology management, industrial engineering and operations, technology commerialization, interdisciplinary engineering.<br/><a href="http://vcresearch.berkeley.edu/node/15449"target="_blank">Research Profile</a></p><p class="facitem"><strong>Candace Yano, <i>Professor</i>. </strong>Inventory control, production planning, distribution systems planning, integrated production-quality models, integrated manufacturing-marketing models.<br/><a href="http://vcresearch.berkeley.edu/node/15643"target="_blank">Research Profile</a></p><h4>Lecturers</h4><p class="facitem"><strong>Solomon Darwin, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Nicholas L. Gunther, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Han Jin, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Tal Lavian, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>David Law, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Ronald Lesniak, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Mehdi Maghsoodnia, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Deepak Rajan, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Kenneth Sandy, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Ken Singer, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Naeem Zafar, <i>Lecturer</i>. </strong></p><h4>Emeritus Faculty</h4><p class="facitem"><strong>Richard E. Barlow, <i>Professor Emeritus</i>. </strong>Industrial engineering and operations, reliability theory, statistical data analysis, Bayesian probability modeling.<br/><a href="http://vcresearch.berkeley.edu/node/14126"target="_blank">Research Profile</a></p><p class="facitem"><strong>Stuart E. Dreyfus, <i>Professor Emeritus</i>. </strong>Neural networks, dynamic programming, limits of operations research modeling, cognitive ergonomics.<br/><a href="http://vcresearch.berkeley.edu/node/14127"target="_blank">Research Profile</a></p><p class="facitem"><strong>C. Roger Glassey, <i>Professor Emeritus</i>. </strong>Simulation of manufacturing systems, production planning &amp; scheduling, mathematical optimization.<br/><a href="http://vcresearch.berkeley.edu/node/14264"target="_blank">Research Profile</a></p><p class="facitem"><strong>Robert M. Oliver, <i>Professor Emeritus</i>. </strong>Risk management, operations research, industrial engineering, prediction of rare events, default and fraud detection, credit risk scoring, analysis tools, computer software, acquisition and negotiation strategies.<br/><a href="http://vcresearch.berkeley.edu/node/15361"target="_blank">Research Profile</a></p><p class="facitem"><strong>Sheldon M. Ross, <i>Professor Emeritus</i>. </strong>Financial engineering, simulations, stochastics, statistical analysis.<br/><a href="http://vcresearch.berkeley.edu/node/15287"target="_blank">Research Profile</a></p><p class="facitem"><strong>J. George Shanthikumar, <i>Professor Emeritus</i>. </strong>Scheduling, production system modelling &amp; analysis, queueing theory &amp; applications, reliability &amp; probability theory, sequencing, simulation methodology, stochastic processes &amp; modelling.<br/><a href="http://vcresearch.berkeley.edu/node/14000"target="_blank">Research Profile</a></p><p class="facitem"><strong>Ronald W. Wolff, <i>Professor Emeritus</i>. </strong>Stochastic processes, queueing theory, queuing network, transmission systems.<br/><a href="http://vcresearch.berkeley.edu/node/15712"target="_blank">Research Profile</a></p>]]>
+</faculty>
+</courseleaf>
+

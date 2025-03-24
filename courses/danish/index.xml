@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+<coursestext>
+<![CDATA[
+<a name="courseinventory"></a><div class="courses">
+<a name="danishcourses"></a>
+<h2>Courses</h2>
+<div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=DANISH 1A" class="btn-course" role="button" aria-controls="625">
+<span class="code">DANISH&#160;1A</span> 
+<span class="title">Beginning Danish</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Scandinavian<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Students will develop the basic elements of communicative competence in both spoken and written language within a cultural context.
+</span><br />
+</p>
+<div id="625" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Danish/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Formerly known as:</strong> Scandinavian 4A</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=DANISH 1B" class="btn-course" role="button" aria-controls="792">
+<span class="code">DANISH&#160;1B</span> 
+<span class="title">Beginning Danish</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Scandinavian<br/>
+Terms offered: Spring 2017, Spring 2016<br/>
+Students will continue to develop the basic elements of communicative competence in both the spoken and written language within a cultural context.
+</span><br />
+</p>
+<div id="792" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 4A or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Danish/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+</div>
+</div>
+</div>
+</div>
+]]>
+</coursestext>
+</courseleaf>
+

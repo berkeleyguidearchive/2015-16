@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+<div>
+<div> </div>
+<div>
+<table class="sc_courselist" width="100%"><colgroup><col class="codecol" /><col class="titlecol" /><col align="char" char="." class="hourscol" /></colgroup><tbody><tr class="even firstrow"><td class="codecol">ANTHRO&#160;1</td><td>Introduction to Biological Anthropology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ANTHRO&#160;105</td><td>Primate Evolution</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ANTHRO&#160;106</td><td>Primate Behavior</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ANTHRO&#160;107</td><td>Evolution of the Human Brain</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ANTHRO&#160;110</td><td>Theory and Method in Physical Anthropology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ANTHRO&#160;112</td><td>Special Topics in Biological Anthropology</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">BIO&#160;ENG&#160;C119</td><td>Orthopedic Biomechanics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">BIOLOGY&#160;1A</td><td>General Biology Lecture</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">BIOLOGY&#160;1B</td><td>General Biology Lecture and Laboratory</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">BIOLOGY&#160;11</td><td>Course Not Available</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">CHM&#160;ENG&#160;170A</td><td>Biochemical Engineering</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">COG&#160;SCI&#160;C102</td><td>Scientific Approaches to Consciousness</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">COG&#160;SCI&#160;C126</td><td>Perception</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">COG&#160;SCI&#160;C127</td><td>Cognitive Neuroscience</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">COG&#160;SCI&#160;C147</td><td>Language Disorders</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ENGLISH&#160;C77</td><td>Introduction to Environmental Studies</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ENV&#160;SCI&#160;10</td><td>Introduction to Environmental Sciences</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">EPS&#160;C82</td><td>Oceans</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">EPS&#160;C129</td><td>Biometeorology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">EPS&#160;185</td><td>Course Not Available</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol">ESPM&#160;2</td><td>The Biosphere</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ESPM&#160;6</td><td>Environmental Biology</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ESPM&#160;C10</td><td>Environmental Issues</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ESPM&#160;C11</td><td>Americans and the Global Forest</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ESPM&#160;C12</td><td>Introduction to Environmental Studies</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ESPM&#160;15</td><td>Introduction to Environmental Sciences</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ESPM&#160;40</td><td>Insects and Human Society</td><td class="hourscol">2</td></tr>
+<tr class="odd"><td class="codecol">ESPM&#160;42</td><td>Natural History of Insects</td><td class="hourscol">2</td></tr>
+<tr class="even"><td class="codecol">ESPM&#160;44</td><td>Biological Control</td><td class="hourscol">2</td></tr>
+<tr class="odd"><td class="codecol">ESPM&#160;100</td><td>Environmental Problem Solving</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ESPM&#160;102A</td><td>Terrestrial Resource Ecology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ESPM&#160;102B</td><td>Natural Resource Sampling</td><td class="hourscol">2</td></tr>
+<tr class="even"><td class="codecol">ESPM&#160;102C</td><td>Resource Management</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ESPM&#160;C103</td><td>Principles of Conservation Biology</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ESPM&#160;105A</td><td>Sierra Nevada Ecology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ESPM&#160;106</td><td>American Wildlife: Identification and Conservation</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ESPM&#160;108A</td><td>Trees: Taxonomy, Growth, and Structures</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ESPM&#160;108B</td><td>Environmental Change Genetics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ESPM&#160;112</td><td>Microbial Ecology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ESPM&#160;113</td><td>Insect Ecology</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ESPM&#160;114</td><td>Wildlife Ecology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ESPM&#160;115B</td><td>Biology of Aquatic Insects</td><td class="hourscol">2</td></tr>
+<tr class="even"><td class="codecol">ESPM&#160;115C</td><td>Fish Ecology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ESPM&#160;117</td><td>Urban Garden Ecosystems</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ESPM&#160;118</td><td>Agricultural Ecology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ESPM&#160;119</td><td>Chemical Ecology</td><td class="hourscol">2</td></tr>
+<tr class="even"><td class="codecol">ESPM&#160;C129</td><td>Biometeorology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ESPM&#160;131</td><td>Soil Microbial Ecology</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ESPM&#160;134</td><td>Fire, Insects, and Diseases in Forest Ecosystems</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ESPM&#160;140</td><td>General Entomology</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ESPM&#160;142</td><td>Insect Behavior</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ESPM&#160;144</td><td>Insect Physiology</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ESPM&#160;C167</td><td>Environmental Health and Development</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ESPM&#160;181A</td><td>Fire Ecology</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ESPM&#160;185</td><td>Applied Forest Ecology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ESPM&#160;186</td><td>Management and Conservation of Rangeland Ecosystems</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ESPM&#160;187</td><td>Restoration Ecology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">GEOG&#160;40</td><td>Introduction to Earth System Science</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">GEOG&#160;C82</td><td>Oceans</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">GEOG&#160;148</td><td>Biogeography</td><td class="hourscol">4</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">INTEGBI: Any course, except INTEGBI&#160;39C</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">L&#160;&amp;&#160;S&#160;C30T</td><td>Drugs and the Brain</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">L&#160;&amp;&#160;S&#160;C30U</td><td>Americans and the Global Forest</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">L&#160;&amp;&#160;S&#160;C30V</td><td>Environmental Issues</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">L&#160;&amp;&#160;S&#160;C30X</td><td>Big Ideas in Cell Biology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">LD&#160;ARCH&#160;110</td><td>Ecological Analysis</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">LINGUIS&#160;C147</td><td>Language Disorders</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">MCELLBI: Any course, except MCELLBI 168</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol">MEC&#160;ENG&#160;C176</td><td>Orthopedic Biomechanics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">NUSCTX&#160;10</td><td>Introduction to Human Nutrition</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">NUSCTX&#160;11</td><td>Introduction to Toxicology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">NUSCTX&#160;103</td><td>Nutrient Function and Metabolism</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">NUSCTX&#160;110</td><td>Toxicology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">NUSCTX&#160;120</td><td>Course Not Available</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol">NUSCTX&#160;150</td><td>Course Not Available</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">NUSCTX&#160;160</td><td>Metabolic Bases of Human Health and Diseases</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">NUSCTX&#160;170</td><td>Experimental Nutrition Laboratory</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">OPTOM&#160;10</td><td>The Eye and Vision in a Changing Environment</td><td class="hourscol">2</td></tr>
+<tr class="even"><td class="codecol">PB&#160;HLTH&#160;C102</td><td>Bacterial Pathogenesis</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PB&#160;HLTH&#160;C160</td><td>Environmental Health and Development</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">PB&#160;HLTH&#160;162A</td><td>Public Health Microbiology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PB&#160;HLTH&#160;170B</td><td>Toxicology</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PHYS&#160;ED&#160;32</td><td>Fitness for Life: Physical Adaptations to Exercise</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PHYSICS&#160;177</td><td>Principles of Molecular Biophysics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PLANTBI&#160;10</td><td>Plants, Agriculture, and Society</td><td class="hourscol">2</td></tr>
+<tr class="odd"><td class="codecol">PLANTBI&#160;11</td><td>Fungi, History, and Society</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PLANTBI&#160;13</td><td>Course Not Available</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PLANTBI&#160;40</td><td>The (Secret) Life of Plants</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PLANTBI&#160;C103</td><td>Bacterial Pathogenesis</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PLANTBI&#160;C116</td><td>Microbial Diversity</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PLANTBI&#160;120</td><td>Biology of Algae</td><td class="hourscol">2</td></tr>
+<tr class="odd"><td class="codecol">PLANTBI&#160;135</td><td>Physiology and Biochemistry of Plants</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PLANTBI&#160;142</td><td>Course Not Available</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">PLANTBI&#160;C148</td><td>Microbial Genomics and Genetics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">PLANTBI&#160;150</td><td>Plant Cell Biology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PLANTBI&#160;160</td><td>Plant Molecular Genetics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PLANTBI&#160;165</td><td>Plant-Microbe Interactions</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PLANTBI&#160;180</td><td>Environmental Plant Biology</td><td class="hourscol">2</td></tr>
+<tr class="even"><td class="codecol">PSYCH&#160;C19</td><td>Drugs and the Brain</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PSYCH&#160;110</td><td>Introduction to Biological Psychology</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PSYCH&#160;C112</td><td>Course Not Available</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">PSYCH&#160;114</td><td>Biology of Learning and Neural Plasticity</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PSYCH&#160;117</td><td>Human Neuropsychology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PSYCH&#160;119</td><td>Course Not Available</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol">PSYCH&#160;121</td><td>Animal Cognition</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PSYCH&#160;122</td><td>Introduction to Human Learning and Memory</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PSYCH&#160;C126</td><td>Perception</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PSYCH&#160;C127</td><td>Cognitive Neuroscience</td><td class="hourscol">3</td></tr>
+<tr class="even lastrow"><td class="codecol">PSYCH&#160;C129</td><td>Scientific Approaches to Consciousness</td><td class="hourscol">3</td></tr>
+</tbody></table>
+
+</div>
+
+</div>
+
+<div> </div>
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+

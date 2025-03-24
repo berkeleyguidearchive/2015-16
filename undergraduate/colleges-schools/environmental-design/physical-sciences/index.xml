@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+<div> </div>
+<div>
+<table class="sc_courselist" width="100%"><colgroup><col class="codecol" /><col class="titlecol" /><col align="char" char="." class="hourscol" /></colgroup><tbody><tr class="even firstrow"><td class="codecol">ANTHRO&#160;132</td><td>Course Not Available</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">ANTHRO&#160;134</td><td>Analysis of the Archaeological Record</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ANTHRO&#160;134A</td><td>Field Course in Archaeological Methods</td><td class="hourscol">6</td></tr>
+<tr class="odd"><td class="codecol">ARCH&#160;39A</td><td>Freshman/Sophomore Seminar</td><td class="hourscol">2-4</td></tr>
+<tr class="even"><td class="codecol">ARCH&#160;140</td><td>Energy and Environment</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ARCH&#160;149</td><td>Special Topics in Energy and Environment</td><td class="hourscol">1-4</td></tr>
+<tr class="even"><td class="codecol">ARCH&#160;150</td><td>Introduction to Structures</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">ASTRON: Any course, except ASTRON 100</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol">BIO&#160;ENG&#160;C125</td><td>Introduction to Robotics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">CHEM: Any course, except CHEM 20, CHEM 130A, and CHEM 130B</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol">CHM&#160;ENG&#160;140</td><td>Introduction to Chemical Process Analysis</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">CHM&#160;ENG&#160;141</td><td>Chemical Engineering Thermodynamics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">CHM&#160;ENG&#160;142</td><td>Chemical Kinetics and Reaction Engineering</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">CHM&#160;ENG&#160;150A</td><td>Transport Processes</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">CHM&#160;ENG&#160;150B</td><td>Transport and Separation Processes</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">CHM&#160;ENG&#160;154</td><td>Chemical Engineering Laboratory</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">CHM&#160;ENG&#160;160</td><td>Chemical Process Design</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">CHM&#160;ENG&#160;162</td><td>Dynamics and Control of Chemical Processes</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">CHM&#160;ENG&#160;170A</td><td>Biochemical Engineering</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">CHM&#160;ENG&#160;176</td><td>Principles of Electrochemical Processes</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">CHM&#160;ENG&#160;179</td><td>Process Technology of Solid-State Materials Devices</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">CIV&#160;ENG&#160;70</td><td>Engineering Geology</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">CIV&#160;ENG&#160;100</td><td>Elementary Fluid Mechanics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">CIV&#160;ENG&#160;103</td><td>Introduction to Hydrology</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">CIV&#160;ENG&#160;C106</td><td>Air Pollution</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">CIV&#160;ENG&#160;111</td><td>Environmental Engineering</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">CIV&#160;ENG&#160;112</td><td>Environmental Engineering Design</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">CIV&#160;ENG&#160;115</td><td>Water Chemistry</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">CIV&#160;ENG&#160;C116</td><td>Chemistry of Soils</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">CIV&#160;ENG&#160;122N</td><td>Design of Steel Structures</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">CIV&#160;ENG&#160;123N</td><td>Design of Reinforced Concrete Structures</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">CIV&#160;ENG&#160;124</td><td>Structural Design in Timber</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">CIV&#160;ENG&#160;153</td><td>Transportation Facility Design</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">CIV&#160;ENG&#160;166</td><td>Construction Engineering</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">CIV&#160;ENG&#160;171</td><td>Rock Mechanics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">CIV&#160;ENG&#160;173</td><td>Groundwater and Seepage</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">CIV&#160;ENG&#160;175</td><td>Geotechnical and Geoenvironmental Engineering</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">CIV&#160;ENG&#160;177</td><td>Foundation Engineering Design</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">COMPSCI&#160;61C</td><td>Machine Structures</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">COMPSCI&#160;61CL</td><td>Machine Structures (Lab-Centric)</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">COMPSCI&#160;188</td><td>Introduction to Artificial Intelligence</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">EL&#160;ENG&#160;40</td><td>Course Not Available</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">EL&#160;ENG&#160;42</td><td>Introduction to Digital Electronics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">EL&#160;ENG&#160;100</td><td>Electronic Techniques for Engineering</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">EL&#160;ENG&#160;117</td><td>Electromagnetic Fields and Waves</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">EL&#160;ENG&#160;121</td><td>Introduction to Digital Communication Systems</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">EL&#160;ENG&#160;122</td><td>Introduction to Communication Networks</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">EL&#160;ENG&#160;123</td><td>Digital Signal Processing</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">EL&#160;ENG&#160;C125</td><td>Course Not Available</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">EL&#160;ENG&#160;130</td><td>Integrated-Circuit Devices</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">EL&#160;ENG&#160;140</td><td>Linear Integrated Circuits</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">EL&#160;ENG&#160;141</td><td>Course Not Available</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol">EL&#160;ENG&#160;142</td><td>Integrated Circuits for Communications</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">EL&#160;ENG&#160;143</td><td>Microfabrication Technology</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ENE,RES&#160;C100</td><td>Energy and Society</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ENE,RES&#160;102</td><td>Quantitative Aspects of Global Environmental Problems</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ENGIN&#160;45</td><td>Properties of Materials</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ENGIN&#160;117</td><td>Methods of Engineering Analysis</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ENV&#160;SCI&#160;10</td><td>Introduction to Environmental Sciences</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">EPS: Any course, except EPS 39A, EPS 60, EPS&#160;C100, EPS&#160;104, EPS 106AC, and EPS 120</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol">ESPM&#160;2</td><td>The Biosphere</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ESPM&#160;15</td><td>Introduction to Environmental Sciences</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ESPM&#160;120</td><td>Soil Characteristics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ESPM&#160;C128</td><td>Chemistry of Soils</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ESPM&#160;C129</td><td>Biometeorology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ESPM&#160;172</td><td>Photogrammetry and Remote Sensing</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ESPM&#160;C180</td><td>Air Pollution</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ESPM&#160;181A</td><td>Fire Ecology</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">GEOG&#160;1</td><td>Global Environmental Change</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">GEOG&#160;40</td><td>Introduction to Earth System Science</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">GEOG&#160;C82</td><td>Oceans</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">GEOG&#160;C139</td><td>Atmospheric Physics and Dynamics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">GEOG&#160;140A</td><td>Physical Landscapes: Process and Form</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">GEOG&#160;144</td><td>Principles of Meteorology</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">GEOG&#160;171</td><td>Special Topics in Physical Geography</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">HISTORY&#160;181B</td><td>Topics in the History of the Physical Sciences: Modern Physics: From the Atom to Big Science</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">IND&#160;ENG&#160;130</td><td>Methods of Manufacturing Improvement</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">IND&#160;ENG&#160;131</td><td>Discrete Event Simulation</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">IND&#160;ENG&#160;140</td><td>Course Not Available</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">IND&#160;ENG&#160;150</td><td>Production Systems Analysis</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">IND&#160;ENG&#160;161</td><td>Course Not Available</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">IND&#160;ENG&#160;162</td><td>Linear Programming and Network Flows</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">IND&#160;ENG&#160;165</td><td>Engineering Statistics, Quality Control, and Forcasting</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">IND&#160;ENG&#160;180</td><td>Senior Project</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">INTEGBI&#160;C82</td><td>Oceans</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">L&#160;&amp;&#160;S&#160;C70T</td><td>The Planets</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">L&#160;&amp;&#160;S&#160;C70U</td><td>Introduction to General Astronomy</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">L&#160;&amp;&#160;S&#160;C70V</td><td>Descriptive Introduction to Physics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">L&#160;&amp;&#160;S&#160;C70W</td><td>Physics and Music</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">L&#160;&amp;&#160;S&#160;C70Y</td><td>Earthquakes in Your Backyard</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MAT&#160;SCI&#160;102</td><td>Bonding, Crystallography, and Crystal Defects</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MAT&#160;SCI&#160;103</td><td>Phase Transformations and Kinetics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MAT&#160;SCI&#160;104</td><td>Materials Characterization</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MAT&#160;SCI&#160;111</td><td>Properties of Electronic Materials</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MAT&#160;SCI&#160;112</td><td>Corrosion (Chemical Properties)</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MAT&#160;SCI&#160;117</td><td>Properties of Dielectric and Magnetic Materials</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MAT&#160;SCI&#160;120</td><td>Materials Production</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MAT&#160;SCI&#160;121</td><td>Metals Processing</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MAT&#160;SCI&#160;122</td><td>Ceramic Processing</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MAT&#160;SCI&#160;123</td><td>ELECTRONIC MATERIALS PROCESSING</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MAT&#160;SCI&#160;125</td><td>Thin-Film Materials Science</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MEC&#160;ENG&#160;101</td><td>Introduction to Lean Manufacturing Systems</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MEC&#160;ENG&#160;104</td><td>Engineering Mechanics II</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MEC&#160;ENG&#160;106</td><td>Fluid Mechanics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MEC&#160;ENG&#160;109</td><td>Heat Transfer</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MEC&#160;ENG&#160;110</td><td>Introduction to Product Development</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MEC&#160;ENG&#160;122</td><td>Processing of Materials in Manufacturing</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MEC&#160;ENG&#160;130</td><td>Design of Planar Machinery</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MEC&#160;ENG&#160;132</td><td>Dynamic Systems and Feedback</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MEC&#160;ENG&#160;133</td><td>Mechanical Vibrations</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MEC&#160;ENG&#160;C134</td><td>Feedback Control Systems</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MEC&#160;ENG&#160;135</td><td>Design of Microprocessor-Based Mechanical Systems</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MEC&#160;ENG&#160;140</td><td>Combustion Processes</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MEC&#160;ENG&#160;151</td><td>Advanced Heat Transfer</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MEC&#160;ENG&#160;163</td><td>Engineering Aerodynamics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MEC&#160;ENG&#160;170</td><td>Engineering Mechanics III</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MEC&#160;ENG&#160;173</td><td>Fundamentals of Acoustics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MEC&#160;ENG&#160;175</td><td>Intermediate Dynamics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MEC&#160;ENG&#160;185</td><td>Introduction to Continuum Mechanics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">NUC&#160;ENG&#160;92</td><td>Course Not Available</td><td class="hourscol">2,3</td></tr>
+<tr class="even"><td class="codecol">NUC&#160;ENG&#160;107</td><td>Introduction to Imaging</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">NUC&#160;ENG&#160;124</td><td>Radioactive Waste Management</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">NUC&#160;ENG&#160;150</td><td>Introduction to Nuclear Reactor Theory</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">NUC&#160;ENG&#160;161</td><td>Nuclear Power Engineering</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">NUC&#160;ENG&#160;162</td><td>Radiation Biophysics and Dosimetry</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">NUC&#160;ENG&#160;180</td><td>Introduction to Controlled Fusion</td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">PHYSICS: Any course, except PHYSICS&#160;39</span></td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td class="codecol">PUB&#160;POL&#160;C184</td><td>Energy and Society</td><td class="hourscol">4</td></tr>
+</tbody></table>
+
+</div>
+
+<div> </div>
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+

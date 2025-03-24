@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+<h2>Courses</h2>
+<div id="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EECS 149" class="btn-course" role="button" aria-controls="978">
+<span class="code">EECS&#160;149</span> 
+<span class="title">Introduction to Embedded Systems</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+This course introduces students to the basics of modeling, analysis, and design of embedded, cyber-physical systems. Students learn how to integrate computation with physical processes to meet a desired specification. Topics include models of computation, control, analysis and verification, interfacing with the physical world, real-time behaviors, mapping to platforms, and distributed embedded systems. The course has a strong laboratory component</span><span class="deschide">, with emphasis on a semester-long sequence of projects.
+</span><br />
+</p>
+<div id="978" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p><strong>Course Objectives:</strong> To develop the skills to realize embedded systems that are safe, reliable, and efficient in their use of resources.<br />To learn how to model and design the joint dynamics of software, networks, and physical processes.<br />To learn to think critically about technologies that are available for achieving such joint dynamics.
+</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> EE 16A &amp; B, or permission of instructor; CS 61C and CS 70</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 3 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Electrical Engin and Computer Sci/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p><p><strong>Instructors:</strong> Seshia, Lee</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EECS 151" class="btn-course" role="button" aria-controls="977">
+<span class="code">EECS&#160;151</span> 
+<span class="title">Introduction to Digital Design and Integrated Circuits</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2017, Spring 2017, Fall 2016<br/>
+An introduction to digital and system design. The material provides a top-down view of the principles, components, and methodologies for large scale digital system design. The underlying CMOS devices and manufacturing technologies are introduced, but quickly abstracted to higher-levels to focus the class on design of larger digital modules for both FPGAs (field programmable gate arrays) and ASICs (application specific integrated circuits). The</span><span class="deschide"> class includes extensive use of industrial grade design automation and verification tools for assignments, labs and projects.<br/>
+The class has two lab options: ASIC Lab (EECS&#160;151LA) and FPGA Lab (EECS&#160;151LB). Students must enroll in at least one of the labs concurrently with the class.
+</span><br />
+</p>
+<div id="977" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p><strong>Course Objectives:</strong> The Verilog hardware description language is introduced and used. Basic digital system design concepts, Boolean operations/combinational logic, sequential elements and finite-state-machines, are described. Design of larger building blocks such as arithmetic units, interconnection networks, input/output units, as well as memory design (SRAM, Caches, FIFOs) and integration are also covered. Parallelism, pipelining and other micro-architectural optimizations are introduced. A number of physical design issues visible at the architecture level are covered as well, such as interconnects, power, and reliability.
+</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Electrical Engineering 16A &amp; 16B</p><p><strong>Credit Restrictions:</strong> Students must enroll concurrently in at least one the lab flavors EECS151LA or EECS151LB. Students wishing to take a second lab flavor next term can sign-up only for that Lab section and receive a Letter grade. The pre-requisite for “Lab-only” enrollment that term will be EECS151 from previous terms.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Electrical Engin and Computer Sci/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Stojanovic, Wawrzynek</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EECS 151LA" class="btn-course" role="button" aria-controls="922">
+<span class="code">EECS&#160;151LA</span> 
+<span class="title">Application Specific Integrated Circuits Laboratory</span> 
+<span class="hours">2 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2017, Spring 2017, Fall 2016<br/>
+This lab lays the foundation of modern digital design by first presenting the scripting and hardware description language base for specification of digital systems and interactions with tool flows. The labs are centered on a large design with the focus on rapid design space exploration. The lab exercises culminate with a project design, e.g., implementation of a three-stage RISC-V processor with a register file and caches. The design is mapped</span><span class="deschide"> to simulation and layout specification.
+</span><br />
+</p>
+<div id="922" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p><strong>Course Objectives:</strong> Software testing of digital designs is covered leading to a set of exercises that cover the design flow. Digital synthesis, floor-planning, placement and routing are covered, as well as tools to evaluate timing and power consumption. Chip-level assembly is covered, including instantiation of custom blocks: I/O pads, memories, PLLs, etc.
+</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Computer Science 61C, Electrical Engineering 16A &amp; 16B, Electrical Engineering 105</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Electrical Engin and Computer Sci/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p><p><strong>Instructors:</strong> Stojanovic, Wawrzynek</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EECS 151LB" class="btn-course" role="button" aria-controls="974">
+<span class="code">EECS&#160;151LB</span> 
+<span class="title">Field-Programmable Gate Array Laboratory</span> 
+<span class="hours">2 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2017, Spring 2017, Fall 2016<br/>
+This lab covers the design of modern digital systems with Field-Programmable Gate Array (FPGA) platforms. A series of lab exercises provide the background and practice of digital design using a modern FPGA design tool flow. Digital synthesis, partitioning, placement, routing, and simulation tools for FPGAs are covered in detail. The labs exercises culminate with a large design project, e.g., an implementation of a full three-stage RISC-V processor</span><span class="deschide"> system, with caches, graphics acceleration, and external peripheral components. The design is mapped and demonstrated on an FPGA hardware platform.
+</span><br />
+</p>
+<div id="974" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Electrical Engineering 16A &amp; 16B; Electrical Engineering 105 recommended and Computer Science 61C</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Electrical Engin and Computer Sci/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p><p><strong>Instructors:</strong> Stojanovic, Wawrzynek</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EECS 251A" class="btn-course" role="button" aria-controls="797">
+<span class="code">EECS&#160;251A</span> 
+<span class="title">Introduction to Digital Design and Integrated Circuits</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2017, Spring 2017, Fall 2016<br/>
+An introduction to digital circuit and system design. The material provides a top-down view of the principles, components, and methodologies for large scale digital system design. The underlying CMOS devices and manufacturing technologies are introduced, but quickly abstracted to higher levels to focus the class on design of larger digital modules for both FPGAs (field programmable gate arrays) and ASICs (application specific integrated circuits).</span><span class="deschide"> The class includes extensive use of industrial grade design automation and verification tools for assignments, labs, and projects.
+</span><br />
+</p>
+<div id="797" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p><strong>Course Objectives:</strong> The Verilog hardware description language is introduced and used. Basic digital system design concepts, Boolean operations/combinational logic, sequential elements and finite-state-machines, are described. Design of larger building blocks such as arithmetic units, interconnection networks, input/output units, as well as memory design (SRAM, Caches, FIFOs) and integration are also covered. Parallelism, pipelining and other micro-architectural optimizations are introduced. A number of physical design issues visible at the architecture level are covered as well, such as interconnects, power, and reliability.
+</p><p><strong>Student Learning Outcomes:</strong> Although the syllabus is the same as EECS151, the assignments and exams for EECS251A will have harder problems that test deeper understanding expected from a graduate level course.
+</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Electrical Engineering 16A &amp; 16B; Computer Science 61C; and recommended: Electrical Engineering 105. Students must enroll concurrently in at least one the laboratory flavors Electrical Engineering and Computer Science 251LA or Electrical Engineering and Computer Science 251LB. Students wishing to take a second laboratory flavor next term can sign-up only for that laboratory section and receive a letter grade. The pre-requisite for “Lab-only” enrollment that term will be Electrical Engineering an</p><p><strong>Credit Restrictions:</strong> Students must enroll concurrently in at least one the laboratory flavors Electrical Engineering and Computer Science 251LA or Electrical Engineering and Computer Science 251LB. Students wishing to take a second laboratory flavor next term can sign-up only for that laboratory section and receive a letter grade. The pre-requisite for “Lab-only” enrollment that term will be Electrical Engineering and Computer Science 251A from previous terms.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Electrical Engin and Computer Sci/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Stojanovic, Wawrzynek</p><p><strong>Formerly known as:</strong> Electrical Engineering 241A</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EECS 251LA" class="btn-course" role="button" aria-controls="425">
+<span class="code">EECS&#160;251LA</span> 
+<span class="title">Introduction to Digital Design and Integrated Circuits Lab</span> 
+<span class="hours">2 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2017, Spring 2017, Fall 2016<br/>
+This lab lays the foundation of modern digital design by first presenting the scripting and hardware description language base for specification of digital systems and interactions with tool flows. The labs are centered on a large design with the focus on rapid design space exploration. The lab exercises culminate with a project design, e.g. implementation of a 3-stage RISC-V processor with a register file and caches. The design is mapped to</span><span class="deschide"> simulation and layout specification.
+</span><br />
+</p>
+<div id="425" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p><strong>Course Objectives:</strong> Software testing of digital designs is covered leading to a set of exercises that cover the design flow. Digital synthesis, floor-planning, placement and routing are covered, as well as tools to evaluate timing and power consumption. Chip-level assembly is covered, including instantiation of custom blocks: I/O pads, memories, PLLs, etc.
+</p><p><strong>Student Learning Outcomes:</strong> Although the syllabus is the same as EECS151LA, the assignments and exams for EECS251LA will have harder problems in labs and in the project that test deeper understanding expected from a graduate level course.
+</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Electrical Engineering 16A &amp; 16B; Computer Science 61C; and recommended: Electrical Engineering 105</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Electrical Engin and Computer Sci/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Stojanovic, Wawrzynek</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=EECS 251LB" class="btn-course" role="button" aria-controls="517">
+<span class="code">EECS&#160;251LB</span> 
+<span class="title">Introduction to Digital Design and Integrated Circuits Lab</span> 
+<span class="hours">2 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2017, Spring 2017, Fall 2016<br/>
+This lab covers the design of modern digital systems with Field-Programmable Gate Array (FPGA) platforms. A series of lab exercises provide the background and practice of digital design using a modern FPGA design tool flow. Digital synthesis, partitioning, placement, routing, and simulation tools for FPGAs are covered in detail. The labs exercises culminate with a large design project, e.g., an implementation of a full 3-stage RISC-V processor</span><span class="deschide"> system, with caches, graphics acceleration, and external peripheral components. The design is mapped and demonstrated on an FPGA hardware platform.
+</span><br />
+</p>
+<div id="517" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p><strong>Student Learning Outcomes:</strong> Although the syllabus is the same as EECS151LB, the assignments and exams for EECS251LB will have harder problems in labs and in the project that test deeper understanding expected from a graduate level course.
+</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Electrical Engineering 16A &amp; 16B; Computer Science 61C; and recommended: Electrical Engineering 105</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Electrical Engin and Computer Sci/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Stojanovic, Wawrzynek</p></div>
+</div>
+</div>
+</div></div>
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+

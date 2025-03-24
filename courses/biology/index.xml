@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+<coursestext>
+<![CDATA[
+<a name="courseinventory"></a><div class="courses">
+<a name="biologycourses"></a>
+<h2>Courses</h2>
+<div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=BIOLOGY 1A" class="btn-course" role="button" aria-controls="946">
+<span class="code">BIOLOGY&#160;1A</span> 
+<span class="title">General Biology Lecture</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2017, Summer 2017 8 Week Session, Spring 2017<br/>
+General introduction to cell structure and function, molecular and organismal genetics, animal development, form and function. Intended for biological sciences majors, but open to all qualified students.
+</span><br />
+</p>
+<div id="946" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Chemistry 1A and 1AL or equivalent with grade of C- or higher, or a 4 or 5 score on the Chemistry AP test; Chemistry 3A or 112A recommended; BIOLOGY&#160;1AL must be taken concurrently (unless exempt by major)</p><p><strong>Credit Restrictions:</strong> 1B may be taken before 1A.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><p><strong>Summer:</strong> 8 weeks - 6 hours of lecture and 2 hours of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Biology/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=BIOLOGY 1AL" class="btn-course" role="button" aria-controls="76">
+<span class="code">BIOLOGY&#160;1AL</span> 
+<span class="title">General Biology Laboratory</span> 
+<span class="hours">2 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2017, Summer 2017 8 Week Session, Spring 2017<br/>
+Laboratory that accompanies 1A lecture course. Intended for biological science majors, but open to all qualified students.
+</span><br />
+</p>
+<div id="76" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 1A must be taken concurrently</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1.5 hours of lecture and 3 hours of laboratory per week</p><p><strong>Summer:</strong> 8 weeks - 3 hours of lecture and 6 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Biology/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=BIOLOGY 1B" class="btn-course" role="button" aria-controls="774">
+<span class="code">BIOLOGY&#160;1B</span> 
+<span class="title">General Biology Lecture and Laboratory</span> 
+<span class="hours">4 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2017, Summer 2017 8 Week Session, Spring 2017<br/>
+General introduction to plant development, form, and function; population genetics, ecology, and evolution. Intended for students majoring in the biological sciences, but open to all qualified students. Students must take both BIOLOGY&#160;1A and 1B to complete the sequence. Sponsored by Integrative Biology.
+</span><br />
+</p>
+<div id="774" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 4 hours of laboratory per week</p><p><strong>Summer:</strong> 8 weeks - 6 hours of lecture and 8 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Biology/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+</div>
+</div>
+</div>
+</div>
+]]>
+</coursestext>
+</courseleaf>
+

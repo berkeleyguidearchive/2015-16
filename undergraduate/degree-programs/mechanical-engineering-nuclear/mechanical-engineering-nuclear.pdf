@@ -1,0 +1,4 @@
+/usr/bin/tee: %PDF-1.4
+%клмн
+standard output: Broken pipe
+/usr/bin/tee: write error

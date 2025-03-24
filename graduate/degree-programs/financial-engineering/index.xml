@@ -1,0 +1,593 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<abouttheprogramtext>
+<![CDATA[
+<p class="Normal1">The Berkeley Master of Financial Engineering (MFE) degree is a full-time, one-year graduate degree offered by the Haas School of Business. Students enrolled in the MFE Program learn to use theoretical finance, mathematics, and computer programming skills to make pricing, hedging, trading, and portfolio management decisions.</p>
+<p class="Normal1">Graduates of the MFE Program find positions in commercial and investment banking, insurance and reinsurance, corporate treasuries, corporate strategy, and money management. Specializations include risk management, asset/liability modeling/optimization, security structuring, derivative valuation and trading, consulting, asset management, research, option-based securities valuation, special hedging, and real-option investment analysis.</p>
+]]>
+</abouttheprogramtext>
+<admissionstext>
+<![CDATA[
+<h3 class="Normal1">Admission to the Program</h3>
+<p class="Normal1">Please see departmental website at <a href="http://mfe.haas.berkeley.edu">http://mfe.haas.berkeley.edu</a>
+.</p>
+
+<h3 class="Normal1">Admission to the University</h3>
+ <h4>Minimum Requirements for Admission</h4> <p>The following minimum requirements apply to all graduate programs and will be verified by the Graduate Division:</p> <ol> 	<li>A bachelor’s degree or recognized equivalent from an accredited institution;</li> 	<li>A grade point average of B or better (3.0);</li> 	<li>If the applicant comes from a country or political entity (e.g., Quebec) where English is not the official language, adequate proficiency in English to do graduate work, as evidenced by a TOEFL score of at least 90 on the iBT test, 570 on the paper-and-pencil test, 230 on the computer-based test, or an IELTS Band score of at least 7 (note that individual programs may set higher levels for any of these); and</li> 	<li>Sufficient undergraduate training to do graduate work in the given field.</li> </ol> <h4>Applicants Who Already Hold a Graduate Degree</h4> <p>The Graduate Council views academic degrees not as vocational training certificates but as evidence of broad training in research methods, independent study, and articulation of learning. Therefore, applicants who already have academic graduate degrees should be able to pursue new subject matter at an advanced level without need to enroll in a related or similar graduate program.</p> <p>Programs may consider students for an additional academic master’s or professional master’s degree only if the additional degree is in a distinctly different field.</p> <p>Applicants admitted to a doctoral program that requires a master’s degree to be earned at Berkeley as a prerequisite (even though the applicant already has a master’s degree from another institution in the same or a closely allied field of study) will be permitted to undertake the second master’s degree, despite the overlap in field.</p> <p>The Graduate Division will admit students for a second doctoral degree only if they meet the following guidelines:</p> <ol> 	<li>Applicants with doctoral degrees may be admitted for an additional doctoral degree only if that degree program is in a general area of knowledge distinctly different from the field in which they earned their original degree. For example, a physics PhD could be admitted to a doctoral degree program in music or history; however, a student with a doctoral degree in mathematics would not be permitted to add a PhD in statistics.</li> 	<li>Applicants who hold the PhD degree may be admitted to a professional doctorate or professional master’s degree program if there is no duplication of training involved.</li> </ol> <p>Applicants may apply only to one single degree program or one concurrent degree program per admission cycle.</p> <p>Any applicant who was previously registered at Berkeley as a graduate student, no matter how briefly, must apply for readmission, not admission, even if the new application is to a different program.</p> <h4>Required Documents for Applications</h4> <ol> 	<li><strong>Transcripts:  </strong>Applicants may u<span>pload <em>unofficial </em>transcripts with your application for the departmental initial review. <em>If the applicant is admitted,</em> then <em>official </em>transcripts of all college-level work will be required. Admitted applicants must r</span>equest a current transcript from every post-secondary school attended, including community colleges, summer sessions, and extension programs. <span>Official transcripts must be in sealed envelopes as issued by the school(s) attended. </span> 	<div class="gmail_default">If you have attended Berkeley, upload your unofficial transcript with your application for the departmental initial review. <em>If you are admitted,</em> an official transcript with evidence of degree conferral <em>will not</em> be required.</div> 	</li> 	<li><strong>Letters of recommendation:</strong> Applicants may request online letters of recommendation through the online application system. Hard copies of recommendation letters must be sent directly to the program, not the Graduate Division.</li> 	<li><strong>Evidence of English language proficiency:</strong> All applicants from countries or political entities in which the official language is not English are required to submit official evidence of English language proficiency. This applies to applicants from Bangladesh, Burma, Nepal, India, Pakistan, Latin America, the Middle East, the People’s Republic of China, Taiwan, Japan, Korea, Southeast Asia, most European countries, and Quebec (Canada). However, applicants who, at the time of application, have already completed at least one year of full-time academic course work with grades of B or better at a US university may submit an official transcript from the US university to fulfill this requirement. The following courses will not fulfill this requirement: 1) courses in English as a Second Language, 2) courses conducted in a language other than English, 3) courses that will be completed after the application is submitted, and 4) courses of a non-academic nature. If applicants have previously been denied admission to Berkeley on the basis of their English language proficiency, they must submit new test scores that meet the current minimum from one of the standardized tests.</li> </ol> <h4>Where to Apply</h4> <p>Visit the Berkeley Graduate Division <a href="http://grad.berkeley.edu/admissions/apply/" target="_blank">application page</a> . </p> 
+]]>
+</admissionstext>
+<mastersdegreerequirementstext>
+<![CDATA[
+<h3 class="Normal1">Unit Requirements: 28 Units</h3>
+<h3 class="Normal1">Curriculum</h3>
+<table class="sc_courselist" width="100%"><colgroup><col class="codecol" /><col class="titlecol" /><col align="char" char="." class="hourscol" /></colgroup><tbody><tr class="even firstrow"><td class="codecol">MFE&#160;230A</td><td>Investments and Derivatives</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MFE&#160;230E</td><td>Empirical Methods in Finance</td><td class="hourscol">2</td></tr>
+<tr class="even"><td class="codecol">MFE&#160;230Q</td><td>Stochastic Calculus with Asset Pricing Applications</td><td class="hourscol">2</td></tr>
+<tr class="odd"><td class="codecol">MFE&#160;230D</td><td>Derivatives: Quantitative Methods</td><td class="hourscol">2</td></tr>
+<tr class="even"><td class="codecol">MFE&#160;230I</td><td>Fixed Income Markets</td><td class="hourscol">2,3</td></tr>
+<tr class="odd"><td class="codecol">MFE&#160;230V</td><td>Credit Risk Modeling</td><td class="hourscol">2</td></tr>
+<tr class="even"><td class="codecol">MFE&#160;230H</td><td>Financial Risk Measurement and Management</td><td class="hourscol">2</td></tr>
+<tr class="odd"><td class="codecol">MFE&#160;230O</td><td>Applied Finance Project</td><td class="hourscol">1-3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Select 28 units of electives from the following:</span></td><td class="hourscol">28</td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left: 20px;">MFE&#160;230W</div></td><td>Accounting and Taxation of Derivatives</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left: 20px;">MFE&#160;230J</div></td><td>Financial Innovation in a Global Marketplace</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left: 20px;">MFE&#160;230M</div></td><td>Asset-Backed Security Markets</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left: 20px;">MFE&#160;230G</div></td><td>Equity and Currency Markets</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left: 20px;">MFE&#160;230K</div></td><td>Dynamic Asset Management</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left: 20px;">MFE&#160;230P</div></td><td>Optimization Models in Finance</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left: 20px;">MFE&#160;230S</div></td><td>Behavioral Finance</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left: 20px;">MFE&#160;230X</div></td><td>High Frequency Finance</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left: 20px;">MFE&#160;230T</div></td><td>Topics in Financial Engineering</td><td class="hourscol"></td></tr>
+<tr class="even lastrow"><td class="codecol"><div style="margin-left: 20px;">MFE&#160;293</div></td><td>Individually Supervised Study for Graduate Students</td><td class="hourscol"></td></tr>
+</tbody></table>
+
+]]>
+</mastersdegreerequirementstext>
+<researchresourcestext>
+<![CDATA[
+<h3 class="Normal1">MFE Data Lab</h3>
+<p class="Normal1">Dedicated lab that includes the following resources:  Bloomberg terminals (2), Access to FactSet, DataStream, Thompson Reuters, High Frequency trading server with NYSE TAQ, NASDAQ TotalView-ITCH, and ICAP EBS currency data; Software: Matlab, SPSS, Mathematica, SAS, Visual Studio, EViews, R, OneTick, kdb+, Rotman Interactive Trader, Numerix Bloomberg Edition; TT from Trading Technologies, and WRDS.</p>
+<h3 class="Normal1">High Frequency Trading Lab Manager and Lab Manager</h3>
+<p class="Normal1">Two staff members assist students with lab and technical needs.</p>
+<h3 class="Normal1">Business and Economics Library at the Haas School of Business</h3>
+<p class="Normal1">Access to Financial Times, Wall Street Journal, and all library resources.</p>
+]]>
+</researchresourcestext>
+<professionaldevelopmentactivitiestext>
+<![CDATA[
+<p>1. Extensive assistance with placement in internship and full-time positions.</p>
+<p>2. Workshops on job search skills, e.g., cover letter/resume writing and interviewing.</p>
+<p>3. Financial Practice Seminars with professionals who discuss career paths available and industry needs. Workshops on relevant skills, e.g., programming languages.</p>
+<p>For more information, visit our <a href="http://mfe.berkeley.edu/careers/internships.html" target="_blank">website</a>
+.</p>
+
+]]>
+</professionaldevelopmentactivitiestext>
+<coursestext>
+<![CDATA[
+<h3>Financial Engineering</h3>
+<div id="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=MFE 230A" class="btn-course" role="button" aria-controls="922">
+<span class="code">MFE&#160;230A</span> 
+<span class="title">Investments and Derivatives</span> 
+<span class="hours">3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Business Administration<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+The course discusses the basic theories of asset pricing. It begins with the standard discounted cash flow analysis, and generalizes this approach to develop the No Arbitrage Pricing Technique for security valuation. Topics will be fixed income securities, derivatives, contingent claims, basic principles of optimal portfolio theory, models of equilibrium asset pricing, including CAPM and related</span><span class="deschide"> Factor Models.
+</span><br />
+</p>
+<div id="922" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 8 weeks - 4 hours of lecture and 4 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Four hours of lecture per week for eight weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Masters in Financial Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Business Administration 230A</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=MFE 230D" class="btn-course" role="button" aria-controls="173">
+<span class="code">MFE&#160;230D</span> 
+<span class="title">Derivatives: Quantitative Methods</span> 
+<span class="hours">2 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Business Administration<br/>
+Terms offered: Summer 2017 10 Week Session, Summer 2016 10 Week Session, Summer 2015 10 Week Session<br/>
+This course emphasizes the pricing of derivatives in continuous time, from the formulation of the pricing problem to the implementation of computational and numerical solution techniques.
+</span><br />
+</p>
+<div id="173" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 230A-230B</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 8 weeks - 4 hours of lecture and 4 hours of lecture per week</p><p><strong>Summer:</strong> 10 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Four hours of lecture per week for eight weeks. Four hours of lecture per week for eight weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Masters in Financial Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=MFE 230E" class="btn-course" role="button" aria-controls="850">
+<span class="code">MFE&#160;230E</span> 
+<span class="title">Empirical Methods in Finance</span> 
+<span class="hours">2 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Business Administration<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+This course reviews probability and statistical techniques commonly used in quantitative finance. It includes a review of normal, lognormal, CEV distribution, estimation and nonparametric techniques commonly used in finance (MLE, GMM, GARCH). Students will be introduced to financial databases and estimation application software to estimate volatilities and correlations and their stability.
+</span><br />
+</p>
+<div id="850" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Business Administration 230A-230B</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 8 weeks - 4 hours of lecture, 6 hours of lecture, and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Six hours of lecture per week for eight weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Masters in Financial Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Valkanov</p><p><strong>Formerly known as:</strong> Business Administration 230E</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=MFE 230G" class="btn-course" role="button" aria-controls="657">
+<span class="code">MFE&#160;230G</span> 
+<span class="title">Equity and Currency Markets</span> 
+<span class="hours">2 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Business Administration<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+This course reviews various aspects of equity and currency markets and their relative importance. It provides models of and historical evidence on the average returns and volatility of returns on equities, on the trade-to-trade equity price behavior, on trading volume and patterns, and primary financial risks. Determination of spot and forward rates and volatility, volume, high frequency dynamics and</span><span class="deschide"> dealer behavior are examined.
+</span><br />
+</p>
+<div id="657" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Business Administration 230A-230B</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 7.5 weeks - 4 hours of lecture and 4 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Masters in Financial Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Business Administration 230G</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=MFE 230H" class="btn-course" role="button" aria-controls="303">
+<span class="code">MFE&#160;230H</span> 
+<span class="title">Financial Risk Measurement and Management</span> 
+<span class="hours">2 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Business Administration<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+This course examines risk measurement and management including market risk, credit risk, liquidity risk, settlement risk, volatility risk, kurtosis risk and other types of financial risks. Topics will include risk management techniques for different types of contracts and portfolios such as duration, portfolio beta, factor sensitivities, VAR, dynamic portfolio analysis and extreme value analysis and</span><span class="deschide"> other risk management techniques.
+</span><br />
+</p>
+<div id="303" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Business Administration 230A-230B</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 7.5 weeks - 4 hours of lecture and 4 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Masters in Financial Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Business Administration 230H</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=MFE 230I" class="btn-course" role="button" aria-controls="277">
+<span class="code">MFE&#160;230I</span> 
+<span class="title">Fixed Income Markets</span> 
+<span class="hours">2 or 3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Business Administration<br/>
+Terms offered: Summer 2017 8 Week Session, Summer 2016 8 Week Session, Summer 2015 8 Week Session<br/>
+This course provides a quantitative approach to fixed income securities and bond portfolio management. Topics include fixed income security markets, pricing and uses for portfolio management or for hedging interest rate risk, bond mathematics, term structure measurement and theory, immunization techniques, and the modern theory of bond pricing, and</span><span class="deschide"> derivative instruments.
+</span><br />
+</p>
+<div id="277" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 230D</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 8 weeks - 3-4 hours of lecture per week</p><p><strong>Summer:</strong> 8 weeks - 3-4 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three or four hours of lecture per week for eight weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Masters in Financial Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=MFE 230J" class="btn-course" role="button" aria-controls="162">
+<span class="code">MFE&#160;230J</span> 
+<span class="title">Financial Innovation in a Global Marketplace</span> 
+<span class="hours">1 Unit</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Business Administration<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+This course will stress financial innovation in the traditional financial markets, and innovation opportunities in the newer disciplines of long and short term economic markets. Some examples of the later include livelihood insurance, home-equity insurance, inequality insurance, intergenerational social security, international agreements, and individual pension investment strategies.
+</span><br />
+</p>
+<div id="162" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Business Administration 230A-230B</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 8 weeks - 2 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of lecture per week for seven and one-half weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Masters in Financial Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=MFE 230K" class="btn-course" role="button" aria-controls="777">
+<span class="code">MFE&#160;230K</span> 
+<span class="title">Dynamic Asset Management</span> 
+<span class="hours">2 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Business Administration<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+This course reviews portfolio theory and pricing models. It includes: risk models for international portfolio returns, models of optimal allocation of funds, exchange rate uncertainty and criteria for judging the performance of managers and models; different types of portfolios/instruments, different types of applications, and strategies to achieve various investment objectives.
+</span><br />
+</p>
+<div id="777" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Business Administration 230A-230B</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 7.5 weeks - 4 hours of lecture and 4 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Masters in Financial Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Business Administration 230K</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=MFE 230M" class="btn-course" role="button" aria-controls="536">
+<span class="code">MFE&#160;230M</span> 
+<span class="title">Asset-Backed Security Markets</span> 
+<span class="hours">2 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Business Administration<br/>
+Terms offered: Fall 2017, Spring 2017, Fall 2016<br/>
+This course extends the study of fixed income securities to advanced topics on mortage and other asset-backed securities. Topics will include basic mechanics of structuring deals for mortgage-related securities, credit cards, leases, and other debt markets and the risk management techniques employed in the securitization process for these assets. The valuation of pooled assets and derivative bonds</span><span class="deschide"> using Monte Carlo and option pricing techniques, and trading strategies are also evaluated.
+</span><br />
+</p>
+<div id="536" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Business Administration 230D and 230I</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 7.5 weeks - 4 hours of lecture and 4 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Masters in Financial Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Business Administration 230M</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=MFE 230N" class="btn-course" role="button" aria-controls="145">
+<span class="code">MFE&#160;230N</span> 
+<span class="title">Applied Finance Project</span> 
+<span class="hours">0.0 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Business Administration<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Students will be required to complete an applied quantitative finance project that explores a quantitative finance problem that might be met in practice and involves the development or use of quantitative financial technique.
+</span><br />
+</p>
+<div id="145" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Participation requires prior approval of the supervising faculty</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 7.5 weeks - 6 hours of lecture and 6 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Independent study. Independent study. Independent study.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Masters in Financial Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. This is part one of a year long series course. A provisional grade of IP (in progress) will be applied and later replaced with the final grade after completing part two of the series. </p><p><strong>Formerly known as:</strong> Business Administration 230N-230O</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=MFE 230O" class="btn-course" role="button" aria-controls="361">
+<span class="code">MFE&#160;230O</span> 
+<span class="title">Applied Finance Project</span> 
+<span class="hours">1 - 3 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Business Administration<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+Students will be required to complete an applied quantitative finance project that explores a quantitative finance problem that might be met in practice and involves the development or use of quantitative financial technique.
+</span><br />
+</p>
+<div id="361" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Participation requires prior approval of the supervising faculty</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 7.5 weeks - 6 hours of lecture and 6 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Independent study. Independent study. Independent study.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Masters in Financial Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. This is part two of a year long series course. Upon completion, the final grade will be applied to both parts of the series. </p><p><strong>Formerly known as:</strong> Business Administration 230N-230O</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=MFE 230P" class="btn-course" role="button" aria-controls="433">
+<span class="code">MFE&#160;230P</span> 
+<span class="title">Optimization Models in Finance</span> 
+<span class="hours">2 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Business Administration<br/>
+Terms offered: Fall 2017, Spring 2017, Fall 2016<br/>
+This course proposes a guided tour through optimization models arising in practical finance. These problems include ones that are traditionally associated with optimization, including asset and liability management, asset pricing, and portfolio optimization. We also describe optimization models arising in model calibration, predication and estimation, and risk analysis. The course includes some recent</span><span class="deschide"> approaches to the analysis of other kinds of financial data, such as text (financial news) data.
+</span><br />
+</p>
+<div id="433" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 6 weeks - 5 hours of lecture and 5 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Masters in Financial Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> El Ghaoui</p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=MFE 230Q" class="btn-course" role="button" aria-controls="251">
+<span class="code">MFE&#160;230Q</span> 
+<span class="title">Stochastic Calculus with Asset Pricing Applications</span> 
+<span class="hours">2 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Business Administration<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+The course introduces the students to techniques from stochastic analysis employed in mathematical finance. Topics include: stochastic processes, brownian motion, stochastic integral, differentials and Ito's formula; martingales.
+</span><br />
+</p>
+<div id="251" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 8 weeks - 4 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Four hours of lecture per week for eight weeks. Four hours of lecture per week for eight weeks. Four hours of lecture per week for eight weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Masters in Financial Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=MFE 230R" class="btn-course" role="button" aria-controls="115">
+<span class="code">MFE&#160;230R</span> 
+<span class="title">Advanced Computational Finance</span> 
+<span class="hours">2 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Business Administration<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+This course builds on the techniques learned in 230D, Quantitative Methods for Derivative Pricing. The focus is to gain a deeper analysis of numerical and computational issues in pricing and calibration. The orientation of the course is hands-on, with heavy use of computational techniques applied to case projects. The primary objective of this course is to prepare students to tackle the latest challenges</span><span class="deschide"> in quantitative pricing that they are likely to encounter in cutting-edge financial institutions.
+</span><br />
+</p>
+<div id="115" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 230D</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 8 weeks - 2-4 hours of lecture and 2-4 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Two to four hours of lecture per week for eight weeks. Two to four hours of lecture per week for eight weeks. Two to four hours of lecture per week for eight weeks. Two to four hours of lecture per week for eight weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Masters in Financial Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=MFE 230S" class="btn-course" role="button" aria-controls="350">
+<span class="code">MFE&#160;230S</span> 
+<span class="title">Behavioral Finance</span> 
+<span class="hours">1 or 2 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Business Administration<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+Over the last 25 years, psychologists have come to better understand the processes by which people make judgements and decisions. They have identified common judgement and decision heuristics and the biases associated with these. An understanding of one's own decision biases and those of others is an important tool for managers. Behavioral Decision Theory has also contributed to our understanding</span><span class="deschide"> of financial markets. This course will discuss the common biases and heuristics.
+</span><br />
+</p>
+<div id="350" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 230D</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 8 weeks - 4 hours of lecture, 4 hours of lecture, 1 hour of discussion, and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Masters in Financial Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=MFE 230T" class="btn-course" role="button" aria-controls="728">
+<span class="code">MFE&#160;230T</span> 
+<span class="title">Topics in Financial Engineering</span> 
+<span class="hours">1 - 5 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Business Administration<br/>
+Terms offered: Fall 2017, Summer 2017 8 Week Session, Spring 2017<br/>
+Advanced study in the field of finance engineering that will address current and emerging issues. Topics will vary with each offering and will be announced at the beginning of each term.
+</span><br />
+</p>
+<div id="728" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit as topic varies. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-6 hours of lecture per week</p><p><strong>Summer:</strong> 8 weeks - 2-12 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Two to ten hours of lecture per week for eight weeks. Two to ten hours of lecture per week for eight weeks. Two to ten hours of lecture per week for eight weeks. Two to ten hours of lecture per week for eight weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Masters in Financial Engineering/Graduate</p><p><strong>Grading:</strong> The grading option will be decided by the instructor when the class is offered. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=MFE 230V" class="btn-course" role="button" aria-controls="313">
+<span class="code">MFE&#160;230V</span> 
+<span class="title">Credit Risk Modeling</span> 
+<span class="hours">2 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Business Administration<br/>
+Terms offered: Summer 2017 8 Week Session, Summer 2016 8 Week Session, Summer 2015 8 Week Session<br/>
+Focuses on the techniques currently used to model credit risk. The course will cover default probabilities, loss given default, correlation, credit portfolio analytics, bond valuation, loan valuation, and credit derivative valuation. Emphasis will be placed on model building, model validation, and interpreting model output. Students will be required</span><span class="deschide"> to do some high-level programming in a package such as Matlab. Some empirical testing exercises will also be part of the project work.
+</span><br />
+</p>
+<div id="313" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 8 weeks - 4 hours of lecture and 4 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Four hours of lecture per week for eight weeks. Four hours of lecture per week for eight weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Masters in Financial Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=MFE 230VA" class="btn-course" role="button" aria-controls="361">
+<span class="code">MFE&#160;230VA</span> 
+<span class="title">Credit Risk: Economic Concepts</span> 
+<span class="hours">1 Unit</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Business Administration<br/>
+Terms offered: Spring 2012, Spring 2011, Spring 2010<br/>
+Introduction to credit risk modeling and conceptual overview of current techniques. Covers default probabilities, loss given default, correlation, credit portfolio analytics, bond valuation, loan valuation, and credit derivative valuation. Prepares students who are interested in a second course that will focus on model building. Students not interested in the technical details of modeling but</span><span class="deschide"> who desire an understanding of how credit risk modeling is used in practice will benefit from taking this course.
+</span><br />
+</p>
+<div id="361" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 6 weeks - 3 hours of lecture and 3 hours of lecture per week</p><p><strong>Summer:</strong> 8 weeks - 4 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Masters in Financial Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=MFE 230VB" class="btn-course" role="button" aria-controls="541">
+<span class="code">MFE&#160;230VB</span> 
+<span class="title">Credit Risk: Quantitative Modeling</span> 
+<span class="hours">1 Unit</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Business Administration<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Focuses on the techniques currently used to model credit risk. The course will cover default probabilities, loss given default, correlation, credit portfolio analytics, bond valuation, loan valuation, and credit derivative valuation. Emphasis will be placed on model building, model validation, and interpreting model output. Students will be required to do some high-level programming in a package such</span><span class="deschide"> as MATLAB. Some empirical testing exercises will also be part of the project work.
+</span><br />
+</p>
+<div id="541" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 6 weeks - 3 hours of lecture and 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Masters in Financial Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=MFE 230W" class="btn-course" role="button" aria-controls="766">
+<span class="code">MFE&#160;230W</span> 
+<span class="title">Accounting and Taxation of Derivatives</span> 
+<span class="hours">1 Unit</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow ">Offered through: Business Administration<br/>
+Terms offered: Summer 2017 8 Week Session, Summer 2016 8 Week Session, Summer 2015 8 Week Session<br/>
+This course provides a framework to allow students the understanding of the accounting and tax issues related to derivatives and hedging. It also fulfills the needs of students seeking jobs in the corporate sector and/or seeking securities-structuring assignments in the financial services sector. A basic understanding of financial accounting is required.</span><span class="deschide">
+</span><br />
+</p>
+<div id="766" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 8 weeks - 2.5 hours of lecture and 2.5 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Masters in Financial Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=MFE 230X" class="btn-course" role="button" aria-controls="704">
+<span class="code">MFE&#160;230X</span> 
+<span class="title">High Frequency Finance</span> 
+<span class="hours">1 or 2 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Business Administration<br/>
+Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+This course introduces basic concepts of high frequency finance and discusses recent developments in market microstructure, electronic trading, and high frequency data modeling. Topics include trading basics and price discovery, distributional properties of financial time series, tick data analysis, trade direction algorithms, trading benchmarks, sources of risk, and trading strategies (including</span><span class="deschide"> back-testing challenges, benchmark and hedging strategies, and arbitrage and program trading).
+</span><br />
+</p>
+<div id="704" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 10 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week per unit. Three hours of lecture per week per unit. Three hours of lecture per week per unit. Three hours of lecture per week per unit.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Masters in Financial Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=MFE 230Y" class="btn-course" role="button" aria-controls="642">
+<span class="code">MFE&#160;230Y</span> 
+<span class="title">Ethics and Regulation in Financial Markets</span> 
+<span class="hours">1 Unit</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Business Administration<br/>
+Terms offered: Spring 2017, Spring 2016<br/>
+This course is an introduction to the legal rules which govern financial markets and institutions in general but also, specifically related to derivatives. The main purpose of legal rules and regulations is to ensure a smooth functioning of financial markets, as well as the safety and soundness of the overall financial system. We will examine the main areas of law and regulation, as they pertain to the centralized</span><span class="deschide"> exchanges and the over the counter markets and the role of regulatory arbitrage. We will specifically focus on Dodd-Frank and Basel III and how these rules came about as a response to the financial crisis. We will also explore the role of ethics in filling in the gaps that the law fails to fill.
+</span><br />
+</p>
+<div id="642" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 6 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 6 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Four hours of lecture per week for eight weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Masters in Financial Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+</div>
+</div>
+</div><div class="courseblock">
+<p class="courseblocktitle">
+<a href="/search/?P=MFE 293" class="btn-course" role="button" aria-controls="715">
+<span class="code">MFE&#160;293</span> 
+<span class="title">Individually Supervised Study for Graduate Students</span> 
+<span class="hours">1 - 5 Units</span>
+</a>
+</p>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Business Administration<br/>
+Terms offered: Fall 2017, Summer 2017 8 Week Session, Spring 2017<br/>
+Individually supervised study of subjects not available to students in the regular schedule, approved by faculty adviser as appropriate for the students' programs.
+</span><br />
+</p>
+<div id="715" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate standing</p><p><strong>Repeat rules:</strong> Course may be repeated for credit. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 8 weeks - 1-5 hours of independent study and 1-5 hours of independent study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Masters in Financial Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+</div>
+</div>
+</div></div>
+]]>
+</coursestext>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+

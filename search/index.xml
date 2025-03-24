@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+  
+  <div id="sitesearch">
+<script type="text/javascript">
+var ts = new Date().getTime();
+var _ribbiturl="/ribbit/index.cgi?format=html&page=fsinjector.rjs&ts=" + ts; 
+document.write("\x3Cscript src=" + _ribbiturl + ">\x3C/script>");
+</script>
+<noscript>JavaScript is disabled.  To view the search results, visit <a href="/ribbit/index.cgi?format=html&page=fsinjector.rjs&fullpage=true">/ribbit/index.cgi?format=html&page=fsinjector.rjs&fullpage=true="</a></noscript>
+</div>
+<script>
+try {
+	$(function() {
+		setTimeout(function() {
+				$("#fsnosearchresults").hide();
+		}, 500);
+	})
+} catch(e) {
+
+}
+</script>
+
+<div id="fsnosearchresults"></div>
+
+]]>
+</text>
+<faculty>
+<![CDATA[
+<h2>Faculty and Instructors</h2><h4>Faculty</h4><p class="facitem"><strong>Ronelle Alexander, <i>Professor</i>. </strong>Slavic languages &amp; literatures, Balkan Slavic dialectology, Balkan linguistics, language contact, oral tradition, Parry-Lord theory of oral composition, South Slavic epic singers, issues of language and identity.<br/><a href="http://vcresearch.berkeley.edu/node/14368"target="_blank">Research Profile</a></p><p class="facitem"><strong>David A. Frick, <i>Professor</i>. </strong>Slavic languages &amp; literatures.<br/><a href="http://vcresearch.berkeley.edu/node/14690"target="_blank">Research Profile</a></p><p class="facitem"><strong>Lyubov (Luba) Golburt, <i>Associate Professor</i>. </strong>Pushkin, Russian literature and art of the 18th and 19th centuries; Derzhavin, Turgenev; history and literature; historical novel.<br/><a href="http://vcresearch.berkeley.edu/node/14724"target="_blank">Research Profile</a></p><p class="facitem"><strong>Darya Kavitskaya, <i>Associate Professor</i>. </strong>Phonological theory, opacity, contrast, Slavic phonology, phonetics/phonology interface, field linguistics (Slavic, Turkic, Uralic).<br/><a href="http://vcresearch.berkeley.edu/node/16808"target="_blank">Research Profile</a></p><p class="facitem"><strong>Eric Naiman, <i>Professor</i>. </strong>Sexuality, history, comparative literature, Slavic language, ideological poetics, history of medicine, Soviet culture, the gothic novel.<br/><a href="http://vcresearch.berkeley.edu/node/15163"target="_blank">Research Profile</a></p><p class="facitem"><strong>Anne Nesbet, <i>Associate Professor</i>. </strong>Culture, film studies, Slavic languages, early Soviet culture, Sergei Eisenstein, silent film, Soviet film, GDR history, children&#039;s literature &amp; Stalinism, the Soviet Union, American minority movements.<br/><a href="http://vcresearch.berkeley.edu/node/15172"target="_blank">Research Profile</a></p><p class="facitem"><strong>Irina Paperno, <i>Professor</i>. </strong>Russian language and literature, intellectual history.<br/><a href="http://vcresearch.berkeley.edu/node/15218"target="_blank">Research Profile</a></p><p class="facitem"><strong>Harsha Ram, <i>Associate Professor</i>. </strong>Russian and European romanticism and modernism, Russian and European avant-gardes, Russian, European, Near Eastern and South Asian poetic traditions, Indian literature, Italian literature, Georgian history and literature, theories of world literature, literary theory, comparative poetics, genre theory, literary history, comparative modernisms and modernities, vernacular and high culture, cultural and political history of Russia-Eurasia and the Caucasus, postcolonial studies, theories of nationalism, imperialism and cosmopolitanism, the city and literature.<br/><a href="http://vcresearch.berkeley.edu/node/15257"target="_blank">Research Profile</a></p><h4>Lecturers</h4><p class="facitem"><strong>Milutin Janjic, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Ellen R. Langer, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Lisa C. Little, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Anna Muza, <i>Senior Lecturer</i>. </strong></p><p class="facitem"><strong>Hasmig Seropian, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Eva Soos Szoke, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Katarzyna Zacha, <i>Lecturer</i>. </strong></p><h4>Emeritus Faculty</h4><p class="facitem"><strong>Joan Grossman, <i>Professor Emeritus</i>. </strong>Slavic languages and literatures, Russian symbolism and decadence viewed especially as a cultural process, questions of literary evolution, and Russian modernism.<br/><a href="http://vcresearch.berkeley.edu/node/14082"target="_blank">Research Profile</a></p><p class="facitem"><strong>Olga Hughes, <i>Professor Emeritus</i>. </strong>Slavic languages and literatures, literature and culture of the 20th century, Pasternak, Tsvetaeva, Remizov, autobiographical prose, history and literature of Russian emigration, Russian literary developments and cultural life of the early 20th century.<br/><a href="http://vcresearch.berkeley.edu/node/14874"target="_blank">Research Profile</a></p><p class="facitem"><strong>Robert P. Hughes, <i>Professor Emeritus</i>. </strong>Critical theory, comparative literature, Slavic languages and literatures, Pushkin, Russian and European modernism, Russian poetry, Nabokov, Russian prose in the 1920s, Khodasevich&#039;s poetry, forms of autobiography, Andrei Belyi.<br/><a href="http://vcresearch.berkeley.edu/node/14873"target="_blank">Research Profile</a></p><p class="facitem"><strong>Olga Matich, <i>Professor Emeritus</i>. </strong>Slavic languages and literatures, Russian symbolism and post-Stalin literature, women in Russian literature, Zinaida Gippius, Russian emigre literature, conceptualization of love in Russian culture, theory and practice of private life.<br/><a href="http://vcresearch.berkeley.edu/node/14079"target="_blank">Research Profile</a></p><p class="facitem"><strong>Hugh Mclean, <i>Professor Emeritus</i>. </strong>Slavic languages and literatures, prose fiction of the 19th century (Gogol, Tolstoy; Kushchevskij, Leskov, Chekhov), Zoshchenko, and poetry (Majakovskij).<br/><a href="http://vcresearch.berkeley.edu/node/14083"target="_blank">Research Profile</a></p><p class="facitem"><strong>Johanna Nichols, <i>Professor Emeritus</i>. </strong>Slavic languages &amp; literatures, Slavic languages, syntax, historical linguistics, typology, including historical typology, linguistic geography and areal linguistics, languages of northern Eurasia, particularly languages of the Caucasus.<br/><a href="http://vcresearch.berkeley.edu/node/14080"target="_blank">Research Profile</a></p><p class="facitem"><strong>Walter Schamschula, <i>Professor Emeritus</i>. </strong>Slavic languages and literatures, influences of cultural contacts on Czech literatures, especially Germanic, movement and migration of literary themes and topics in Europe, Czech cultural history &amp; theory of literature, theory and practice of translation.<br/><a href="http://vcresearch.berkeley.edu/node/14084"target="_blank">Research Profile</a></p><p class="facitem"><strong>Alan Timberlake, <i>Professor Emeritus</i>. </strong>Slavic languages and literatures, descriptive grammar of Russian, chronicles.<br/><a href="http://vcresearch.berkeley.edu/node/14081"target="_blank">Research Profile</a></p>]]>
+</faculty>
+</courseleaf>
+
